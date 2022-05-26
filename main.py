@@ -1,15 +1,18 @@
 #!/usr/bin/python3
-import requests, bs4, datetime, os
+import requests, bs4, datetime, pytz
 from icalendar import Calendar, Event
 from requests.structures import CaseInsensitiveDict
 
+tz = pytz.timezone('Europe/Berlin')
+
 def createCalendar(plan,name):
+    
     cal=Calendar()
     cal.add('prodid', '-//%s Calendar//' % name)
     cal.add('version', '2.0')
     for gameday in plan:
         game= Event()
-        kickoff=datetime.datetime.strptime(gameday['kickoff'],"%m/%d/%Y, %H:%M:%S")
+        kickoff=datetime.datetime.strptime("%s-+0200" % gameday['kickoff'],"%m/%d/%Y, %H:%M:%S-%z")
         game.add('summary', '%s vs %s' %(gameday['hometeam'], gameday['guestteam']))
         game.add('dtstart', kickoff)
         game.add('dtend', kickoff + datetime.timedelta(hours=3))
