@@ -16,7 +16,7 @@ def createCalendar(plan,name):
         cal.add_component(game)
     return cal
 
-def main()
+def main():
     team='Gelsenkirchen Devils'
     url = "https://afcvnrw.de/wp-content/themes/afcv/ajax/games_spielplan.php"
 
@@ -62,3 +62,6 @@ def main()
     f = open("liga.ics", 'wb')
     f.write(leaguecal.to_ical())
     f.close()
+
+if __name__ == "__main__":
+    main()
