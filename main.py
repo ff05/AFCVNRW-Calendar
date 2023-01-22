@@ -38,7 +38,8 @@ def main():
     headers["sec-fetch-site"] = "same-origin"
     headers["user-agent"] = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
     headers["x-requested-with"] = "XMLHttpRequest"
-    data = "league=493"
+    #data = "league=493"
+    data = "league=530"
     page = requests.post(url, headers=headers, data=data)
     soup=bs4.BeautifulSoup(page.content, 'lxml')
     ligaplanhtm=soup.findAll("div",{"class":"game_result spielplan"})
