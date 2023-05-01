@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 import requests, bs4, datetime, pytz
-import urllib.parse
 from icalendar import Calendar, Event
 from requests.structures import CaseInsensitiveDict
+from urllib.parse import quote
+import config
 
 tz = pytz.timezone("Europe/Berlin")
 
@@ -19,7 +20,7 @@ def createCalendar(plan, name):
     game.add("summary", "%s vs %s" % (gameday["hometeam"], gameday["guestteam"]))
     game.add("dtstart", kickoff)
     game.add("dtend", kickoff + datetime.timedelta(hours=3))
-    game.add("location", gameday["stadium"])
+    game.add("location",'%s=0Ahttps://www.google.de/maps/place/%s' % (gameday["stadium"], quote(gameday["stadium"])))
     game.add("description", gameday["description"])
 
     cal.add_component(game)
@@ -27,9 +28,6 @@ def createCalendar(plan, name):
 
 
 def main():
-  team = "Gelsenkirchen Devils"
-  badsausage = ["Kevelaer Kings"]
-  goodsausage = [team]
   url = "https://afcvnrw.de/wp-content/themes/afcv/ajax/games_spielplan.php"
   headers = CaseInsensitiveDict()
   headers["authority"] = "afcvnrw.de"
@@ -49,7 +47,7 @@ def main():
   ] = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
   headers["x-requested-with"] = "XMLHttpRequest"
   # data = "league=493"
-  data = "league=530"
+  data = "league=%s" % str(config.LEAGUE_ID)
   page = requests.post(url, headers=headers, data=data)
   soup = bs4.BeautifulSoup(page.content, "lxml")
   spielplan = soup.findAll("div", {"class": "game_result spielplan"})
@@ -67,22 +65,22 @@ def main():
     game["hometeam"] = spielplan[i].find("div", {"class": "team1"}).text
     game["guestteam"] = spielplan[i].find("div", {"class": "team2"}).text
     game["stadium"] = gameinfo[i].find("div", {"class": "game_stadium"}).text[7:]
-    if game["hometeam"] in badsausage:
+    if game["hometeam"] in config.SAUSAGE_BAD:
       game["description"] = "schlechte Bratwurst"
-    elif game["hometeam"] in goodsausage:
+    elif game["hometeam"] in config.SAUSAGE_GOOD:
       game["description"] = "Gute Bratwurst"
     else:
       game["description"] = "Keine Bratwurst Information"
     ligaplan.append(game)
-    if game["hometeam"] == team or game["guestteam"] == team:
+    if game["hometeam"] == config.TEAM or game["guestteam"] == config.TEAM:
       teamplan.append(game)
     i+=1
 
-  teamcal = createCalendar(teamplan, team)
+  teamcal = createCalendar(teamplan, config.TEAM)
   leaguecal = createCalendar(ligaplan, "league")
 
-  team += ".ics"
-  f = open(team, "wb")
+  teamcalfile = "%s.ics" % config.TEAM
+  f = open(teamcalfile, "wb")
   f.write(teamcal.to_ical())
   f.close()
   f = open("liga.ics", "wb")
