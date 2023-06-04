@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//league Calendar//
+BEGIN:VEVENT
+SUMMARY:Dorsten Reapers U13 vs div.
+DTSTART;TZID="UTC+02:00":20230518T110000
+DTEND;TZID="UTC+02:00":20230518T140000
+DESCRIPTION:Keine Bratwurst Information
+LOCATION:SuS Hervest Dorsten\, Dorsten\, https://www.google.de/maps/place/
+ SuS%20Hervest%20Dorsten%2C%20Dorsten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster Blackhawks U13 vs div.
+DTSTART;TZID="UTC+02:00":20230603T110000
+DTEND;TZID="UTC+02:00":20230603T140000
+DESCRIPTION:Gute Bratwurst
+LOCATION:Sportpark Sentruper Höhe\, Münster\, https://www.google.de/maps
+ /place/Sportpark%20Sentruper%20H%C3%B6he%2C%20M%C3%BCnster
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund Giants U13 vs div.
+DTSTART;TZID="UTC+02:00":20230617T110000
+DTEND;TZID="UTC+02:00":20230617T140000
+DESCRIPTION:Keine Bratwurst Information
+LOCATION:Hoeschpark\, Dortmund\, https://www.google.de/maps/place/Hoeschpa
+ rk%2C%20Dortmund
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster Mammuts U13 vs div.
+DTSTART;TZID="UTC+02:00":20230820T110000
+DTEND;TZID="UTC+02:00":20230820T140000
+DESCRIPTION:Keine Bratwurst Information
+LOCATION:Sportanlage DJK SV Mauritz 1906 e.V.\, Münster\, https://www.goo
+ gle.de/maps/place/Sportanlage%20DJK%20SV%20Mauritz%201906%20e.V.%2C%20M%C3
+ %BCnster
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Chargers/Devils U13 vs div.
+DTSTART;TZID="UTC+02:00":20230917T110000
+DTEND;TZID="UTC+02:00":20230917T140000
+DESCRIPTION:Keine Bratwurst Information
+LOCATION:Stadion Hohenhorst\, Recklinghausen\, https://www.google.de/maps/
+ place/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+END:VCALENDAR

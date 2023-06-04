@@ -1,5 +1,5 @@
-#!/usr/bin/python3
-import requests, bs4, datetime, pytz
+#!/usr/bin/env python
+import requests, bs4, datetime, pytz, overpy
 from icalendar import Calendar, Event
 from requests.structures import CaseInsensitiveDict
 from urllib.parse import quote
@@ -17,17 +17,18 @@ def createCalendar(plan, name):
     kickoff = datetime.datetime.strptime(
       "%s-+0200" % gameday["kickoff"], "%m/%d/%Y, %H:%M:%S-%z"
     )
+    location = '%s, https://www.google.de/maps/place/%s' % (gameday["stadium"], quote(gameday["stadium"]))
     game.add("summary", "%s vs %s" % (gameday["hometeam"], gameday["guestteam"]))
     game.add("dtstart", kickoff)
     game.add("dtend", kickoff + datetime.timedelta(hours=3))
-    game.add("location",'%s=0Ahttps://www.google.de/maps/place/%s' % (gameday["stadium"], quote(gameday["stadium"])))
+    game.add("location", location)
     game.add("description", gameday["description"])
 
     cal.add_component(game)
   return cal
 
 
-def main():
+def main(id, leaguename):
   url = "https://afcvnrw.de/wp-content/themes/afcv/ajax/games_spielplan.php"
   headers = CaseInsensitiveDict()
   headers["authority"] = "afcvnrw.de"
@@ -47,7 +48,7 @@ def main():
   ] = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
   headers["x-requested-with"] = "XMLHttpRequest"
   # data = "league=493"
-  data = "league=%s" % str(config.LEAGUE_ID)
+  data = "league=%s" % str(id)
   page = requests.post(url, headers=headers, data=data)
   soup = bs4.BeautifulSoup(page.content, "lxml")
   spielplan = soup.findAll("div", {"class": "game_result spielplan"})
@@ -56,25 +57,30 @@ def main():
   teamplan = []
   i = 0
   while i < 29:
-    game = {}
-    kickoff = datetime.datetime.strptime(
-      (spielplan[i].find("div", {"class": "kickoff"}).text),
-      "%d.%m.%y um %H:%M Uhr",
-    )
-    game["kickoff"] = kickoff.strftime("%m/%d/%Y, %H:%M:%S")
-    game["hometeam"] = spielplan[i].find("div", {"class": "team1"}).text
-    game["guestteam"] = spielplan[i].find("div", {"class": "team2"}).text
-    game["stadium"] = gameinfo[i].find("div", {"class": "game_stadium"}).text[7:]
-    if game["hometeam"] in config.SAUSAGE_BAD:
-      game["description"] = "schlechte Bratwurst"
-    elif game["hometeam"] in config.SAUSAGE_GOOD:
-      game["description"] = "Gute Bratwurst"
-    else:
-      game["description"] = "Keine Bratwurst Information"
-    ligaplan.append(game)
-    if game["hometeam"] == config.TEAM or game["guestteam"] == config.TEAM:
-      teamplan.append(game)
-    i+=1
+    try:
+      game = {}
+      kickoff = datetime.datetime.strptime(
+        (spielplan[i].find("div", {"class": "kickoff"}).text),
+        "%d.%m.%y um %H:%M Uhr",
+      )
+      game["kickoff"] = kickoff.strftime("%m/%d/%Y, %H:%M:%S")
+      game["hometeam"] = spielplan[i].find("div", {"class": "team1"}).text
+      game["guestteam"] = spielplan[i].find("div", {"class": "team2"}).text
+      game["stadium"] = gameinfo[i].find("div", {"class": "game_stadium"}).text[7:]
+      for team in config.SAUSAGE_BAD:
+        if team in game["hometeam"]:
+          game["description"] = "schlechte Bratwurst"
+      for team in config.SAUSAGE_GOOD:
+        if team in game["hometeam"]:
+          game["description"] = "Gute Bratwurst"
+      if "description" not in game:
+        game["description"] = "Keine Bratwurst Information"
+      ligaplan.append(game)
+      if game["hometeam"] == config.TEAM or game["guestteam"] == config.TEAM:
+        teamplan.append(game)
+      i+=1
+    except IndexError:
+      break
 
   teamcal = createCalendar(teamplan, config.TEAM)
   leaguecal = createCalendar(ligaplan, "league")
@@ -83,9 +89,11 @@ def main():
   f = open(teamcalfile, "wb")
   f.write(teamcal.to_ical())
   f.close()
-  f = open("liga.ics", "wb")
+  f = open("%s.ics" % leaguename, "wb")
   f.write(leaguecal.to_ical())
   f.close()
 
 if __name__ == "__main__":
-  main()
+  for league in config.LEAGUE_IDS:
+    main(league["id"], league["name"])
+
