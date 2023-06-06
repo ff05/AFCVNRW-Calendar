@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//league Calendar//
+PRODID:-//Damenbundesliga_2-West Calendar//
 BEGIN:VEVENT
 SUMMARY:SG Ronin/Vampires vs Cologne Falcons Damen
 DTSTART;TZID="UTC+02:00":20230422T110000

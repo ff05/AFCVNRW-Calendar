@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Muelheim_Shamrocks_Damen Calendar//
+PRODID:-//Mülheim Shamrocks Damen Calendar//
 BEGIN:VEVENT
 SUMMARY:Cologne Falcons Damen vs Mülheim Shamrocks Damen
 DTSTART;TZID="UTC+02:00":20230430T150000

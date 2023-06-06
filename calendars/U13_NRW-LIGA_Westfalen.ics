@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//league Calendar//
+PRODID:-//U13_NRW-LIGA_Westfalen Calendar//
 BEGIN:VEVENT
 SUMMARY:Dorsten Reapers U13 vs div.
 DTSTART;TZID="UTC+02:00":20230518T110000
@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:Münster Blackhawks U13 vs div.
 DTSTART;TZID="UTC+02:00":20230603T110000
 DTEND;TZID="UTC+02:00":20230603T140000
-DESCRIPTION:Ergebnis: 0 : 0\nGute Bratwurst\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 0\nGute Bratwurst
 LOCATION:Sportpark Sentruper Höhe\, Münster\nhttps://www.google.de/maps/
  place/Sportpark%20Sentruper%20H%C3%B6he%2C%20M%C3%BCnster
 END:VEVENT

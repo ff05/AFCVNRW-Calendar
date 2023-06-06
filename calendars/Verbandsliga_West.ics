@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//league Calendar//
+PRODID:-//Verbandsliga_West Calendar//
 BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230422T150000
 DTEND;TZID="UTC+02:00":20230422T180000
-DESCRIPTION:Ergebnis: 14 : 20\nGute Bratwurst\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 14 : 20\nGute Bratwurst
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -21,8 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230423T150000
 DTEND;TZID="UTC+02:00":20230423T180000
-DESCRIPTION:Ergebnis: 6 : 17\nGute Bratwurst\nKeine Bratwurst Information\
- nKeine Trommeln
+DESCRIPTION:Ergebnis: 6 : 17\nGute Bratwurst\nKeine Trommeln
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -30,8 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230429T150000
 DTEND;TZID="UTC+02:00":20230429T180000
-DESCRIPTION:Ergebnis: 19 : 3\nschlechte Bratwurst\nKeine Bratwurst Informa
- tion
+DESCRIPTION:Ergebnis: 19 : 3\nschlechte Bratwurst
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -55,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230513T150000
 DTEND;TZID="UTC+02:00":20230513T180000
-DESCRIPTION:Ergebnis: 14 : 17\nGute Bratwurst\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 14 : 17\nGute Bratwurst
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -63,8 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230513T150000
 DTEND;TZID="UTC+02:00":20230513T180000
-DESCRIPTION:Ergebnis: 14 : 38\nschlechte Bratwurst\nKeine Bratwurst Inform
- ation
+DESCRIPTION:Ergebnis: 14 : 38\nschlechte Bratwurst
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -88,8 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230604T150000
 DTEND;TZID="UTC+02:00":20230604T180000
-DESCRIPTION:Ergebnis: 6 : 23\nGute Bratwurst\nKeine Bratwurst Information\
- nKeine Trommeln
+DESCRIPTION:Ergebnis: 6 : 23\nGute Bratwurst\nKeine Trommeln
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -97,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230610T150000
 DTEND;TZID="UTC+02:00":20230610T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nGute Bratwurst
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -105,8 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230611T150000
 DTEND;TZID="UTC+02:00":20230611T180000
-DESCRIPTION:Ergebnis: - : -\nschlechte Bratwurst\nKeine Bratwurst Informat
- ion
+DESCRIPTION:Ergebnis: - : -\nschlechte Bratwurst
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -138,8 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230812T150000
 DTEND;TZID="UTC+02:00":20230812T180000
-DESCRIPTION:Ergebnis: - : -\nschlechte Bratwurst\nKeine Bratwurst Informat
- ion
+DESCRIPTION:Ergebnis: - : -\nschlechte Bratwurst
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -155,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Kevelaer Kings
 DTSTART;TZID="UTC+02:00":20230819T150000
 DTEND;TZID="UTC+02:00":20230819T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nGute Bratwurst
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -163,8 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230820T150000
 DTEND;TZID="UTC+02:00":20230820T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Bratwurst Information\n
- Keine Trommeln
+DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Trommeln
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -188,8 +181,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230903T150000
 DTEND;TZID="UTC+02:00":20230903T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Bratwurst Information\n
- Keine Trommeln
+DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Trommeln
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -197,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230909T150000
 DTEND;TZID="UTC+02:00":20230909T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nGute Bratwurst
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -205,8 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230909T183000
 DTEND;TZID="UTC+02:00":20230909T213000
-DESCRIPTION:Ergebnis: - : -\nschlechte Bratwurst\nKeine Bratwurst Informat
- ion
+DESCRIPTION:Ergebnis: - : -\nschlechte Bratwurst
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -238,8 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Kevelaer Kings
 DTSTART;TZID="UTC+02:00":20231001T150000
 DTEND;TZID="UTC+02:00":20231001T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Bratwurst Information\n
- Keine Trommeln
+DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Trommeln
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
