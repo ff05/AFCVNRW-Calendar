@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230610T150000
 DTEND;TZID="UTC+02:00":20230610T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst
+DESCRIPTION:Ergebnis: 36 : 29\nGute Bratwurst
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT

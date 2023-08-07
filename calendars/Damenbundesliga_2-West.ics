@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:SG Ronin/Vampires vs Bochum Miners
 DTSTART;TZID="UTC+02:00":20230617T150000
 DTEND;TZID="UTC+02:00":20230617T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 0\nKeine Bratwurst Information
 LOCATION:BSA Sürther Feld\, Köln\nhttps://www.google.de/maps/place/BSA%2
  0S%C3%BCrther%20Feld%2C%20K%C3%B6ln
 END:VEVENT
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Cologne Falcons Damen vs Assassins Wuppertal/Solingen
 DTSTART;TZID="UTC+02:00":20230618T150000
 DTEND;TZID="UTC+02:00":20230618T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 58 : 6\nKeine Bratwurst Information
 LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
  hn%2C%20K%C3%B6ln
 END:VEVENT
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Assassins Wuppertal/Solingen vs Mülheim Shamrocks Damen
 DTSTART;TZID="UTC+02:00":20230702T150000
 DTEND;TZID="UTC+02:00":20230702T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 6 : 14\nKeine Bratwurst Information
 LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
  ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
 END:VEVENT
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Cologne Falcons Damen vs Bochum Miners
 DTSTART;TZID="UTC+02:00":20230702T150000
 DTEND;TZID="UTC+02:00":20230702T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 36 : 7\nKeine Bratwurst Information
 LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
  hn%2C%20K%C3%B6ln
 END:VEVENT
@@ -93,25 +93,25 @@ BEGIN:VEVENT
 SUMMARY:Bochum Miners vs Mülheim Shamrocks Damen
 DTSTART;TZID="UTC+02:00":20230708T150000
 DTEND;TZID="UTC+02:00":20230708T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 20\nKeine Bratwurst Information
 LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
  Schultenhof%2C%20Bochum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cologne Falcons Damen vs SG Ronin/Vampires
-DTSTART;TZID="UTC+02:00":20230709T150000
-DTEND;TZID="UTC+02:00":20230709T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
-LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
- hn%2C%20K%C3%B6ln
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SG Ronin/Vampires vs Assassins Wuppertal/Solingen
 DTSTART;TZID="UTC+02:00":20230715T150000
 DTEND;TZID="UTC+02:00":20230715T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 22 : 29\nKeine Bratwurst Information
 LOCATION:BSA Sürther Feld\, Köln\nhttps://www.google.de/maps/place/BSA%2
  0S%C3%BCrther%20Feld%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cologne Falcons Damen vs SG Ronin/Vampires
+DTSTART;TZID="UTC+02:00":20230903T150000
+DTEND;TZID="UTC+02:00":20230903T180000
+DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks Damen vs Assassins Wuppertal/Solingen
@@ -131,8 +131,8 @@ LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Assassins Wuppertal/Solingen vs Cologne Falcons Damen
-DTSTART;TZID="UTC+02:00":20230917T110000
-DTEND;TZID="UTC+02:00":20230917T140000
+DTSTART;TZID="UTC+02:00":20230917T160000
+DTEND;TZID="UTC+02:00":20230917T190000
 DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
 LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
  ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
@@ -160,5 +160,13 @@ DTEND;TZID="UTC+02:00":20230923T180000
 DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
 LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
  Schultenhof%2C%20Bochum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Ronin/Vampires vs Bochum Miners
+DTSTART;TZID="UTC+02:00":20230930T150000
+DTEND;TZID="UTC+02:00":20230930T180000
+DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+LOCATION:BSA Sürther Feld\, Köln\nhttps://www.google.de/maps/place/BSA%2
+ 0S%C3%BCrther%20Feld%2C%20K%C3%B6ln
 END:VEVENT
 END:VCALENDAR

@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Assassins Wuppertal/Solingen vs Mülheim Shamrocks Damen
 DTSTART;TZID="UTC+02:00":20230702T150000
 DTEND;TZID="UTC+02:00":20230702T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 6 : 14\nKeine Bratwurst Information
 LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
  ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
 END:VEVENT
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Bochum Miners vs Mülheim Shamrocks Damen
 DTSTART;TZID="UTC+02:00":20230708T150000
 DTEND;TZID="UTC+02:00":20230708T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 20\nKeine Bratwurst Information
 LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
  Schultenhof%2C%20Bochum
 END:VEVENT
