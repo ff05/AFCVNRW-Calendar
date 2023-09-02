@@ -55,6 +55,37 @@ def get_game(spiel, info):
   game['guestteam'] = spiel.find("div", {"class": "team2"}).text
   game['stadium'] = info.find("div", {"class": "game_stadium"}).text[7:]
   game['description'] = [f'Ergebnis: {spiel.find("div",{"class":"resultbox"}).text}']
+  found_by_stadium=False
+  found_by_teamname=False
+  for team in config.TEAM_COMMENTS:
+    if not 'Stadion' in config.TEAM_COMMENTS[team]:
+      continue
+    if game['stadium'] == config.TEAM_COMMENTS[team]['Stadion']:
+      found_by_stadium=True
+      for k,v in config.TEAM_COMMENTS[team].items():
+        if k in ['Stadion']:
+          continue
+        game['description'].append(f'{k}: {v}')
+  if not found_by_stadium:
+    if game['hometeam'] in config.TEAM_COMMENTS:
+      found_by_teamname=True
+      for k,v in config.TEAM_COMMENTS[game['hometeam']].items():
+        if k in ['Stadion']:
+          continue
+        game['description'].append(f'{k}: {v}')
+    else:
+      for team_comment in config.TEAM_COMMENTS.keys():
+        if team_comment in game['hometeam']:
+          found_by_teamname=True
+          for k,v in config.TEAM_COMMENTS[team_comment].items():
+            if k in ['Stadion']:
+              continue
+            game['description'].append(f'{k}: {v}')
+          break
+  if not found_by_stadium and not found_by_teamname:
+    for k,v in config.TEAM_COMMENTS['DEFAULT'].items():
+      game['description'].append(f'{k}: {v}')
+  game['description'] = "\n".join(game['description'])
   return game
 
 def main(league_id, leaguename):
@@ -66,15 +97,9 @@ def main(league_id, leaguename):
   for spiel in spielplan:
     info=spielplaninfo[spielplan.index(spiel)]
     game = get_game(spiel,info)
-    if game['hometeam'] in config.TEAM_COMMENTS:
-      game['description'].extend(config.TEAM_COMMENTS[game['hometeam']])
-    else:
-      game['description'].extend(config.TEAM_COMMENTS['DEFAULT'])
     ligaplan.append(game)
     if game['hometeam'] in config.TEAMS or game['guestteam'] in config.TEAMS:
       teamplan.append(game)
-    game['description'] = "\n".join(game['description'])
-  
   if len(teamplan) > 1:
     if teamplan[0]['hometeam'] in config.TEAMS:
       teamname = teamplan[0]['hometeam']
