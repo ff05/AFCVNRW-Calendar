@@ -26,8 +26,7 @@ def createCalendar(plan, name):
     cal.add_component(game)
   return cal
 
-
-def main(league_id, leaguename):
+def get_league_data(league_id):
   url = "https://afcvnrw.de/wp-content/themes/afcv/ajax/games_spielplan.php"
   headers = CaseInsensitiveDict()
   headers['authority'] = "afcvnrw.de"
@@ -47,53 +46,34 @@ def main(league_id, leaguename):
   # data = "league=493"
   data = f"league={str(league_id)}"
   page = requests.post(url, headers=headers, data=data)
-  soup = bs4.BeautifulSoup(page.content, "lxml")
+  return bs4.BeautifulSoup(page.content, "lxml")
+
+def get_game(spiel, info):
+  game= {}
+  game['kickoff'] = datetime.datetime.strptime((spiel.find("div", {"class": "kickoff"}).text),"%d.%m.%y um %H:%M Uhr",).strftime("%m/%d/%Y, %H:%M:%S")
+  game['hometeam'] = spiel.find("div", {"class": "team1"}).text
+  game['guestteam'] = spiel.find("div", {"class": "team2"}).text
+  game['stadium'] = info.find("div", {"class": "game_stadium"}).text[7:]
+  game['description'] = [f'Ergebnis: {spiel.find("div",{"class":"resultbox"}).text}']
+  return game
+
+def main(league_id, leaguename):
+  soup=get_league_data(league_id)
   spielplan = soup.findAll("div", {"class": "game_result spielplan"})
-  gameinfo = soup.findAll("div", {"class": "game_info spielplaninfo"})
+  spielplaninfo = soup.findAll("div", {"class": "game_info spielplaninfo"})
   ligaplan = []
   teamplan = []
-  i = 0
-  while i < 29:
-    try:
-      game = {}
-      kickoff = datetime.datetime.strptime(
-        (spielplan[i].find("div", {"class": "kickoff"}).text),
-        "%d.%m.%y um %H:%M Uhr",
-      )
-      game['kickoff'] = kickoff.strftime("%m/%d/%Y, %H:%M:%S")
-      game['hometeam'] = spielplan[i].find("div", {"class": "team1"}).text
-      game['guestteam'] = spielplan[i].find("div", {"class": "team2"}).text
-      game['stadium'] = gameinfo[i].find("div", {"class": "game_stadium"}).text[7:]
-      ergebnis = spielplan[i].find("div",{"class":"resultbox"}).text
-      description = [f'Ergebnis: {ergebnis}']
-      sausage = None
-      for team in config.SAUSAGE_GOOD:
-        if team in game['hometeam']:
-          sausage = True
-          break
-      if sausage is None:
-        for team in config.SAUSAGE_BAD:
-          if team in game['hometeam']:
-            sausage = False
-            break
-      match sausage:
-        case True:
-          description.append("Gute Bratwurst")
-        case False:
-          description.append("schlechte Bratwurst")
-        case None:
-          description.append("Keine Bratwurst Information")
-      for k in config.TEAM_COMMENTS:
-        if game['hometeam'] == k:
-          description.append(config.TEAM_COMMENTS[k])
-          break
-      ligaplan.append(game)
-      if game['hometeam'] in config.TEAMS or game['guestteam'] in config.TEAMS:
-        teamplan.append(game)
-      game['description'] = "\n".join(description)
-      i+=1
-    except IndexError:
-      break
+  for spiel in spielplan:
+    info=spielplaninfo[spielplan.index(spiel)]
+    game = get_game(spiel,info)
+    if game['hometeam'] in config.TEAM_COMMENTS:
+      game['description'].extend(config.TEAM_COMMENTS[game['hometeam']])
+    else:
+      game['description'].extend(config.TEAM_COMMENTS['DEFAULT'])
+    ligaplan.append(game)
+    if game['hometeam'] in config.TEAMS or game['guestteam'] in config.TEAMS:
+      teamplan.append(game)
+    game['description'] = "\n".join(game['description'])
   
   if len(teamplan) > 1:
     if teamplan[0]['hometeam'] in config.TEAMS:

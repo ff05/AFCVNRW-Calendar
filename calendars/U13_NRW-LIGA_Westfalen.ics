@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Dortmund Giants U13 vs Münster Mammuts U13
 DTSTART;TZID="UTC+02:00":20230518T110000
 DTEND;TZID="UTC+02:00":20230518T140000
-DESCRIPTION:Ergebnis: 54 : 20\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 54 : 20\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:SuS Hervest Dorsten\, Dorsten\nhttps://www.google.de/maps/place/S
  uS%20Hervest%20Dorsten%2C%20Dorsten
 END:VEVENT
@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:Dorsten Reapers U13 vs Münster Blackhawks U13
 DTSTART;TZID="UTC+02:00":20230518T110000
 DTEND;TZID="UTC+02:00":20230518T140000
-DESCRIPTION:Ergebnis: 18 : 22\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 18 : 22\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:SuS Hervest Dorsten\, Dorsten\nhttps://www.google.de/maps/place/S
  uS%20Hervest%20Dorsten%2C%20Dorsten
 END:VEVENT
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Münster Blackhawks U13 vs Münster Mammuts U13
 DTSTART;TZID="UTC+02:00":20230518T110000
 DTEND;TZID="UTC+02:00":20230518T140000
-DESCRIPTION:Ergebnis: 39 : 6\nGute Bratwurst
+DESCRIPTION:Ergebnis: 39 : 6\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:SuS Hervest Dorsten\, Dorsten\nhttps://www.google.de/maps/place/S
  uS%20Hervest%20Dorsten%2C%20Dorsten
 END:VEVENT
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Dorsten Reapers U13 vs Dortmund Giants U13
 DTSTART;TZID="UTC+02:00":20230518T110000
 DTEND;TZID="UTC+02:00":20230518T140000
-DESCRIPTION:Ergebnis: 32 : 16\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 32 : 16\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:SuS Hervest Dorsten\, Dorsten\nhttps://www.google.de/maps/place/S
  uS%20Hervest%20Dorsten%2C%20Dorsten
 END:VEVENT
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Münster Blackhawks U13 vs SG Chargers/Devils U13
 DTSTART;TZID="UTC+02:00":20230603T110000
 DTEND;TZID="UTC+02:00":20230603T140000
-DESCRIPTION:Ergebnis: 36 : 0\nGute Bratwurst
+DESCRIPTION:Ergebnis: 36 : 0\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportpark Sentruper Höhe\, Münster\nhttps://www.google.de/maps/
  place/Sportpark%20Sentruper%20H%C3%B6he%2C%20M%C3%BCnster
 END:VEVENT
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:SG Chargers/Devils U13 vs Münster Mammuts U13
 DTSTART;TZID="UTC+02:00":20230603T110000
 DTEND;TZID="UTC+02:00":20230603T140000
-DESCRIPTION:Ergebnis: 48 : 12\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 48 : 12\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportpark Sentruper Höhe\, Münster\nhttps://www.google.de/maps/
  place/Sportpark%20Sentruper%20H%C3%B6he%2C%20M%C3%BCnster
 END:VEVENT
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Münster Blackhawks U13 vs Dorsten Reapers U13
 DTSTART;TZID="UTC+02:00":20230603T110000
 DTEND;TZID="UTC+02:00":20230603T140000
-DESCRIPTION:Ergebnis: 29 : 6\nGute Bratwurst
+DESCRIPTION:Ergebnis: 29 : 6\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportpark Sentruper Höhe\, Münster\nhttps://www.google.de/maps/
  place/Sportpark%20Sentruper%20H%C3%B6he%2C%20M%C3%BCnster
 END:VEVENT
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Dorsten Reapers U13 vs Münster Mammuts U13
 DTSTART;TZID="UTC+02:00":20230603T110000
 DTEND;TZID="UTC+02:00":20230603T140000
-DESCRIPTION:Ergebnis: 51 : 12\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 51 : 12\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportpark Sentruper Höhe\, Münster\nhttps://www.google.de/maps/
  place/Sportpark%20Sentruper%20H%C3%B6he%2C%20M%C3%BCnster
 END:VEVENT
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Dortmund Giants U13 vs Münster Blackhawks U13
 DTSTART;TZID="UTC+02:00":20230617T110000
 DTEND;TZID="UTC+02:00":20230617T140000
-DESCRIPTION:Ergebnis: 0 : 26\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 26\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Hoeschpark\, Dortmund\nhttps://www.google.de/maps/place/Hoeschpar
  k%2C%20Dortmund
 END:VEVENT
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Münster Mammuts U13 vs SG Chargers/Devils U13
 DTSTART;TZID="UTC+02:00":20230617T110000
 DTEND;TZID="UTC+02:00":20230617T140000
-DESCRIPTION:Ergebnis: 6 : 46\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 6 : 46\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Hoeschpark\, Dortmund\nhttps://www.google.de/maps/place/Hoeschpar
  k%2C%20Dortmund
 END:VEVENT
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Dortmund Giants U13 vs SG Chargers/Devils U13
 DTSTART;TZID="UTC+02:00":20230617T110000
 DTEND;TZID="UTC+02:00":20230617T140000
-DESCRIPTION:Ergebnis: 12 : 30\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 12 : 30\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Hoeschpark\, Dortmund\nhttps://www.google.de/maps/place/Hoeschpar
  k%2C%20Dortmund
 END:VEVENT
@@ -93,15 +93,15 @@ BEGIN:VEVENT
 SUMMARY:Münster Mammuts U13 vs Münster Blackhawks U13
 DTSTART;TZID="UTC+02:00":20230617T110000
 DTEND;TZID="UTC+02:00":20230617T140000
-DESCRIPTION:Ergebnis: 0 : 38\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 38\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Hoeschpark\, Dortmund\nhttps://www.google.de/maps/place/Hoeschpar
  k%2C%20Dortmund
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Münster Mammuts U13 vs Dorsten Reapers U13
+SUMMARY:Münster Mammuts U13 vs Dortmund Giants U13
 DTSTART;TZID="UTC+02:00":20230820T110000
 DTEND;TZID="UTC+02:00":20230820T140000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 24 : 39\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportanlage DJK SV Mauritz 1906 e.V.\, Münster\nhttps://www.goog
  le.de/maps/place/Sportanlage%20DJK%20SV%20Mauritz%201906%20e.V.%2C%20M%C3%
  BCnster
@@ -110,25 +110,7 @@ BEGIN:VEVENT
 SUMMARY:SG Chargers/Devils U13 vs Dortmund Giants U13
 DTSTART;TZID="UTC+02:00":20230820T110000
 DTEND;TZID="UTC+02:00":20230820T140000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
-LOCATION:Sportanlage DJK SV Mauritz 1906 e.V.\, Münster\nhttps://www.goog
- le.de/maps/place/Sportanlage%20DJK%20SV%20Mauritz%201906%20e.V.%2C%20M%C3%
- BCnster
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Münster Mammuts U13 vs Dortmund Giants U13
-DTSTART;TZID="UTC+02:00":20230820T110000
-DTEND;TZID="UTC+02:00":20230820T140000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
-LOCATION:Sportanlage DJK SV Mauritz 1906 e.V.\, Münster\nhttps://www.goog
- le.de/maps/place/Sportanlage%20DJK%20SV%20Mauritz%201906%20e.V.%2C%20M%C3%
- BCnster
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dorsten Reapers U13 vs SG Chargers/Devils U13
-DTSTART;TZID="UTC+02:00":20230820T110000
-DTEND;TZID="UTC+02:00":20230820T140000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 6 : 30\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportanlage DJK SV Mauritz 1906 e.V.\, Münster\nhttps://www.goog
  le.de/maps/place/Sportanlage%20DJK%20SV%20Mauritz%201906%20e.V.%2C%20M%C3%
  BCnster
@@ -137,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:SG Chargers/Devils U13 vs Dorsten Reapers U13
 DTSTART;TZID="UTC+02:00":20230917T110000
 DTEND;TZID="UTC+02:00":20230917T140000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst%2C%20Recklinghausen
 END:VEVENT
@@ -145,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Münster Blackhawks U13 vs Dortmund Giants U13
 DTSTART;TZID="UTC+02:00":20230917T110000
 DTEND;TZID="UTC+02:00":20230917T140000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst
+DESCRIPTION:Ergebnis: - : -\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst%2C%20Recklinghausen
 END:VEVENT
@@ -153,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:SG Chargers/Devils U13 vs Münster Blackhawks U13
 DTSTART;TZID="UTC+02:00":20230917T110000
 DTEND;TZID="UTC+02:00":20230917T140000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst%2C%20Recklinghausen
 END:VEVENT
@@ -161,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Dortmund Giants U13 vs Dorsten Reapers U13
 DTSTART;TZID="UTC+02:00":20230917T110000
 DTEND;TZID="UTC+02:00":20230917T140000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst%2C%20Recklinghausen
 END:VEVENT

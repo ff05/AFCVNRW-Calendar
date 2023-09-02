@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Cologne Falcons Damen vs Mülheim Shamrocks Damen
 DTSTART;TZID="UTC+02:00":20230430T150000
 DTEND;TZID="UTC+02:00":20230430T180000
-DESCRIPTION:Ergebnis: 42 : 8\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 42 : 8\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
  hn%2C%20K%C3%B6ln
 END:VEVENT
@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks Damen vs Cologne Falcons Damen
 DTSTART;TZID="UTC+02:00":20230520T150000
 DTEND;TZID="UTC+02:00":20230520T180000
-DESCRIPTION:Ergebnis: 0 : 32\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 32\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks Damen vs SG Ronin/Vampires
 DTSTART;TZID="UTC+02:00":20230603T160000
 DTEND;TZID="UTC+02:00":20230603T190000
-DESCRIPTION:Ergebnis: 24 : 40\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 24 : 40\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Assassins Wuppertal/Solingen vs Mülheim Shamrocks Damen
 DTSTART;TZID="UTC+02:00":20230702T150000
 DTEND;TZID="UTC+02:00":20230702T180000
-DESCRIPTION:Ergebnis: 6 : 14\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 6 : 14\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
  ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
 END:VEVENT
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Bochum Miners vs Mülheim Shamrocks Damen
 DTSTART;TZID="UTC+02:00":20230708T150000
 DTEND;TZID="UTC+02:00":20230708T180000
-DESCRIPTION:Ergebnis: 0 : 20\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 20\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
  Schultenhof%2C%20Bochum
 END:VEVENT
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks Damen vs Assassins Wuppertal/Solingen
 DTSTART;TZID="UTC+02:00":20230909T160000
 DTEND;TZID="UTC+02:00":20230909T190000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks Damen vs Bochum Miners
 DTSTART;TZID="UTC+02:00":20230917T160000
 DTEND;TZID="UTC+02:00":20230917T190000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:SG Ronin/Vampires vs Mülheim Shamrocks Damen
 DTSTART;TZID="UTC+02:00":20230923T110000
 DTEND;TZID="UTC+02:00":20230923T140000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Ludwig-Kuhnen-Stadion\, Aachen\nhttps://www.google.de/maps/place/
  Ludwig-Kuhnen-Stadion%2C%20Aachen
 END:VEVENT

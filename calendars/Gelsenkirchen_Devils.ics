@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230422T150000
 DTEND;TZID="UTC+02:00":20230422T180000
-DESCRIPTION:Ergebnis: 14 : 20\nGute Bratwurst
+DESCRIPTION:Ergebnis: 14 : 20\nBratwurst: Gut\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230429T150000
 DTEND;TZID="UTC+02:00":20230429T180000
-DESCRIPTION:Ergebnis: 19 : 3\nschlechte Bratwurst
+DESCRIPTION:Ergebnis: 19 : 3\nBratwurst: Schlecht\nStuhl: ja\nTrommeln: ja
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230513T150000
 DTEND;TZID="UTC+02:00":20230513T180000
-DESCRIPTION:Ergebnis: 14 : 17\nGute Bratwurst
+DESCRIPTION:Ergebnis: 14 : 17\nBratwurst: Gut\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230604T150000
 DTEND;TZID="UTC+02:00":20230604T180000
-DESCRIPTION:Ergebnis: 6 : 23\nGute Bratwurst\nKeine Trommeln
+DESCRIPTION:Ergebnis: 6 : 23\nBratwurst: Gut\nStuhl: kann\nTrommeln: nein
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230610T150000
 DTEND;TZID="UTC+02:00":20230610T180000
-DESCRIPTION:Ergebnis: 36 : 29\nGute Bratwurst
+DESCRIPTION:Ergebnis: 36 : 29\nBratwurst: Gut\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Wesseling Blackvenom vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230813T150000
 DTEND;TZID="UTC+02:00":20230813T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 58 : 8\nBratwurst: Hotdog\nStuhl: ja\nTrommeln: ja
 LOCATION:Kreuz Knippchen\, Wesseling\nhttps://www.google.de/maps/place/Kre
  uz%20Knippchen%2C%20Wesseling
 END:VEVENT
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Kevelaer Kings
 DTSTART;TZID="UTC+02:00":20230819T150000
 DTEND;TZID="UTC+02:00":20230819T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst
+DESCRIPTION:Ergebnis: 9 : 26\nBratwurst: Gut\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Schiefbahn Riders vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230902T150000
 DTEND;TZID="UTC+02:00":20230902T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 0\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Jahnstadion Siedlerallee\, Willich-Schiefbahn\nhttps://www.google
  .de/maps/place/Jahnstadion%20Siedlerallee%2C%20Willich-Schiefbahn
 END:VEVENT
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230909T150000
 DTEND;TZID="UTC+02:00":20230909T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst
+DESCRIPTION:Ergebnis: - : -\nBratwurst: Gut\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230923T150000
 DTEND;TZID="UTC+02:00":20230923T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT

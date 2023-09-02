@@ -1,13 +1,16 @@
 TEAMS = ["Gelsenkirchen Devils","Mülheim Shamrocks Damen"]
-SAUSAGE_BAD = ["Kevelaer Kings"]
-SAUSAGE_GOOD = ["Gelsenkirchen Devils", "Münster Blackhawks", "Herne Black Barons"]
 TEAM_COMMENTS = {
-    "Herne Black Barons": "Keine Trommeln"
+    "DEFAULT": ["Bratwurst: unbekannt", "Stuhl: unbekannt", "Trommeln: unbekannt"],
+    "Gelsenkirchen Devils": ["Bratwurst: Gut", "Stuhl: nein", "Trommeln: ja"],
+    "Münster Blackhawks": ["Bratwurst: Gut", "Stuhl: ja", "Trommeln: Ja"],
+    "Herne Black Barons": ["Bratwurst: Gut", "Stuhl: kann", "Trommeln: nein"],
+    "Kevelaer Kings": ["Bratwurst: Schlecht", "Stuhl: ja", "Trommeln: ja"],
+    "Wesseling Blackvenom": ["Bratwurst: Hotdog", "Stuhl: ja", "Trommeln: ja"]
 }
 LEAGUE_IDS=[
     {
         "id":530,
-        "name":"verbandsliga_west"
+        "name":"Verbandsliga_West"
     },{
         "id":552,
         "name":"U13_NRW-LIGA_Westfalen"

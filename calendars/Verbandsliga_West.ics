@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230422T150000
 DTEND;TZID="UTC+02:00":20230422T180000
-DESCRIPTION:Ergebnis: 14 : 20\nGute Bratwurst
+DESCRIPTION:Ergebnis: 14 : 20\nBratwurst: Gut\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks vs Kevelaer Kings
 DTSTART;TZID="UTC+02:00":20230422T160000
 DTEND;TZID="UTC+02:00":20230422T190000
-DESCRIPTION:Ergebnis: 19 : 12\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 19 : 12\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230423T150000
 DTEND;TZID="UTC+02:00":20230423T180000
-DESCRIPTION:Ergebnis: 6 : 17\nGute Bratwurst\nKeine Trommeln
+DESCRIPTION:Ergebnis: 6 : 17\nBratwurst: Gut\nStuhl: kann\nTrommeln: nein
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230429T150000
 DTEND;TZID="UTC+02:00":20230429T180000
-DESCRIPTION:Ergebnis: 19 : 3\nschlechte Bratwurst
+DESCRIPTION:Ergebnis: 19 : 3\nBratwurst: Schlecht\nStuhl: ja\nTrommeln: ja
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Wesseling Blackvenom vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230430T150000
 DTEND;TZID="UTC+02:00":20230430T180000
-DESCRIPTION:Ergebnis: 52 : 6\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 52 : 6\nBratwurst: Hotdog\nStuhl: ja\nTrommeln: ja
 LOCATION:Kreuz Knippchen\, Wesseling\nhttps://www.google.de/maps/place/Kre
  uz%20Knippchen%2C%20Wesseling
 END:VEVENT
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Schiefbahn Riders vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230507T150000
 DTEND;TZID="UTC+02:00":20230507T180000
-DESCRIPTION:Ergebnis: 12 : 21\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 12 : 21\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Jahnstadion Siedlerallee\, Willich-Schiefbahn\nhttps://www.google
  .de/maps/place/Jahnstadion%20Siedlerallee%2C%20Willich-Schiefbahn
 END:VEVENT
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230513T150000
 DTEND;TZID="UTC+02:00":20230513T180000
-DESCRIPTION:Ergebnis: 14 : 17\nGute Bratwurst
+DESCRIPTION:Ergebnis: 14 : 17\nBratwurst: Gut\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -61,7 +61,8 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230513T150000
 DTEND;TZID="UTC+02:00":20230513T180000
-DESCRIPTION:Ergebnis: 14 : 38\nschlechte Bratwurst
+DESCRIPTION:Ergebnis: 14 : 38\nBratwurst: Schlecht\nStuhl: ja\nTrommeln: j
+ a
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -69,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230514T160000
 DTEND;TZID="UTC+02:00":20230514T190000
-DESCRIPTION:Ergebnis: 50 : 6\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 50 : 6\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT
@@ -77,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Wesseling Blackvenom vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230528T150000
 DTEND;TZID="UTC+02:00":20230528T180000
-DESCRIPTION:Ergebnis: 42 : 14\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 42 : 14\nBratwurst: Hotdog\nStuhl: ja\nTrommeln: ja
 LOCATION:Kreuz Knippchen\, Wesseling\nhttps://www.google.de/maps/place/Kre
  uz%20Knippchen%2C%20Wesseling
 END:VEVENT
@@ -85,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230604T150000
 DTEND;TZID="UTC+02:00":20230604T180000
-DESCRIPTION:Ergebnis: 6 : 23\nGute Bratwurst\nKeine Trommeln
+DESCRIPTION:Ergebnis: 6 : 23\nBratwurst: Gut\nStuhl: kann\nTrommeln: nein
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -93,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230610T150000
 DTEND;TZID="UTC+02:00":20230610T180000
-DESCRIPTION:Ergebnis: 36 : 29\nGute Bratwurst
+DESCRIPTION:Ergebnis: 36 : 29\nBratwurst: Gut\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -101,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Schiefbahn Riders vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230611T150000
 DTEND;TZID="UTC+02:00":20230611T180000
-DESCRIPTION:Ergebnis: 0 : 26\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 26\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Jahnstadion Siedlerallee\, Willich-Schiefbahn\nhttps://www.google
  .de/maps/place/Jahnstadion%20Siedlerallee%2C%20Willich-Schiefbahn
 END:VEVENT
@@ -109,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Schiefbahn Riders vs Kevelaer Kings
 DTSTART;TZID="UTC+02:00":20230624T150000
 DTEND;TZID="UTC+02:00":20230624T180000
-DESCRIPTION:Ergebnis: 9 : 0\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 9 : 0\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Jahnstadion Siedlerallee\, Willich-Schiefbahn\nhttps://www.google
  .de/maps/place/Jahnstadion%20Siedlerallee%2C%20Willich-Schiefbahn
 END:VEVENT
@@ -117,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Schiefbahn Riders vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230806T150000
 DTEND;TZID="UTC+02:00":20230806T180000
-DESCRIPTION:Ergebnis: 10 : 0\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 10 : 0\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -125,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230812T150000
 DTEND;TZID="UTC+02:00":20230812T180000
-DESCRIPTION:Ergebnis: - : -\nschlechte Bratwurst
+DESCRIPTION:Ergebnis: 0 : 30\nBratwurst: Schlecht\nStuhl: ja\nTrommeln: ja
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -133,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Wesseling Blackvenom vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230813T150000
 DTEND;TZID="UTC+02:00":20230813T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 58 : 8\nBratwurst: Hotdog\nStuhl: ja\nTrommeln: ja
 LOCATION:Kreuz Knippchen\, Wesseling\nhttps://www.google.de/maps/place/Kre
  uz%20Knippchen%2C%20Wesseling
 END:VEVENT
@@ -141,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Kevelaer Kings
 DTSTART;TZID="UTC+02:00":20230819T150000
 DTEND;TZID="UTC+02:00":20230819T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst
+DESCRIPTION:Ergebnis: 9 : 26\nBratwurst: Gut\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -149,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230820T150000
 DTEND;TZID="UTC+02:00":20230820T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Trommeln
+DESCRIPTION:Ergebnis: 26 : 60\nBratwurst: Gut\nStuhl: kann\nTrommeln: nein
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -157,15 +158,16 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230820T160000
 DTEND;TZID="UTC+02:00":20230820T190000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
-LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
- ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
+DESCRIPTION:Ergebnis: 37 : 13\nBratwurst: \nStuhl: \nTrommeln: 
+LOCATION:Sportplatz Südstraße\, Mülheim an der Ruhr\nhttps://www.google
+ .de/maps/place/Sportplatz%20S%C3%BCdstra%C3%9Fe%2C%20M%C3%BClheim%20an%20d
+ er%20Ruhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schiefbahn Riders vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230902T150000
 DTEND;TZID="UTC+02:00":20230902T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: 0 : 0\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Jahnstadion Siedlerallee\, Willich-Schiefbahn\nhttps://www.google
  .de/maps/place/Jahnstadion%20Siedlerallee%2C%20Willich-Schiefbahn
 END:VEVENT
@@ -173,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230903T150000
 DTEND;TZID="UTC+02:00":20230903T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Trommeln
+DESCRIPTION:Ergebnis: - : -\nBratwurst: Gut\nStuhl: kann\nTrommeln: nein
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -181,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230909T150000
 DTEND;TZID="UTC+02:00":20230909T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst
+DESCRIPTION:Ergebnis: - : -\nBratwurst: Gut\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -189,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230909T183000
 DTEND;TZID="UTC+02:00":20230909T213000
-DESCRIPTION:Ergebnis: - : -\nschlechte Bratwurst
+DESCRIPTION:Ergebnis: - : -\nBratwurst: Schlecht\nStuhl: ja\nTrommeln: ja
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -197,15 +199,23 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230910T160000
 DTEND;TZID="UTC+02:00":20230910T190000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kevelaer Kings vs Herne Black Barons
+DTSTART;TZID="UTC+02:00":20230916T160000
+DTEND;TZID="UTC+02:00":20230916T190000
+DESCRIPTION:Ergebnis: - : -\nBratwurst: Schlecht\nStuhl: ja\nTrommeln: ja
+LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
+ 3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230923T150000
 DTEND;TZID="UTC+02:00":20230923T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: \nStuhl: \nTrommeln: 
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT
@@ -213,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Wesseling Blackvenom vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230924T150000
 DTEND;TZID="UTC+02:00":20230924T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: Hotdog\nStuhl: ja\nTrommeln: ja
 LOCATION:Kreuz Knippchen\, Wesseling\nhttps://www.google.de/maps/place/Kre
  uz%20Knippchen%2C%20Wesseling
 END:VEVENT
@@ -221,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Kevelaer Kings
 DTSTART;TZID="UTC+02:00":20231001T150000
 DTEND;TZID="UTC+02:00":20231001T180000
-DESCRIPTION:Ergebnis: - : -\nGute Bratwurst\nKeine Trommeln
+DESCRIPTION:Ergebnis: - : -\nBratwurst: Gut\nStuhl: kann\nTrommeln: nein
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -229,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Wesseling Blackvenom vs Kevelaer Kings
 DTSTART;TZID="UTC+02:00":20231008T150000
 DTEND;TZID="UTC+02:00":20231008T180000
-DESCRIPTION:Ergebnis: - : -\nKeine Bratwurst Information
+DESCRIPTION:Ergebnis: - : -\nBratwurst: Hotdog\nStuhl: ja\nTrommeln: ja
 LOCATION:Kreuz Knippchen\, Wesseling\nhttps://www.google.de/maps/place/Kre
  uz%20Knippchen%2C%20Wesseling
 END:VEVENT
