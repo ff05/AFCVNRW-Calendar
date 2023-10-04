@@ -77,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230909T150000
 DTEND;TZID="UTC+02:00":20230909T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: "umsonst"\nBratwurst: Gut\nBier: St
- auder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: 36 : 0\nEintritt: "umsonst"\nBratwurst: Gut\nBier: S
+ tauder\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -86,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230923T150000
 DTEND;TZID="UTC+02:00":20230923T180000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT

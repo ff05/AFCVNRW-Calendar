@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks Damen vs Assassins Wuppertal/Solingen
 DTSTART;TZID="UTC+02:00":20230909T160000
 DTEND;TZID="UTC+02:00":20230909T190000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 38 : 20\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks Damen vs Bochum Miners
 DTSTART;TZID="UTC+02:00":20230917T160000
 DTEND;TZID="UTC+02:00":20230917T190000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 40 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT
@@ -68,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:SG Ronin/Vampires vs Mülheim Shamrocks Damen
 DTSTART;TZID="UTC+02:00":20230923T110000
 DTEND;TZID="UTC+02:00":20230923T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 22 : 24\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
 LOCATION:Ludwig-Kuhnen-Stadion\, Aachen\nhttps://www.google.de/maps/place/
  Ludwig-Kuhnen-Stadion%2C%20Aachen
 END:VEVENT

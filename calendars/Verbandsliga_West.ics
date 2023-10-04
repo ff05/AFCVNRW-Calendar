@@ -195,8 +195,8 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230903T150000
 DTEND;TZID="UTC+02:00":20230903T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: 5€\nBratwurst: Gut\nBier: \nStuhl
- : kann\nTrommeln: nein
+DESCRIPTION:Ergebnis: 6 : 37\nEintritt: 5€\nBratwurst: Gut\nBier: \nStuh
+ l: kann\nTrommeln: nein
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT
@@ -204,8 +204,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230909T150000
 DTEND;TZID="UTC+02:00":20230909T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: "umsonst"\nBratwurst: Gut\nBier: St
- auder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: 36 : 0\nEintritt: "umsonst"\nBratwurst: Gut\nBier: S
+ tauder\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -213,8 +213,8 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230909T183000
 DTEND;TZID="UTC+02:00":20230909T213000
-DESCRIPTION:Ergebnis: - : -\nEintritt: \nBratwurst: Schlecht\nBier: \nStuh
- l: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 29 : 17\nEintritt: \nBratwurst: Schlecht\nBier: \nSt
+ uhl: ja\nTrommeln: ja
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -222,8 +222,8 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230910T160000
 DTEND;TZID="UTC+02:00":20230910T190000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 38 : 30\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT
@@ -231,8 +231,8 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230916T160000
 DTEND;TZID="UTC+02:00":20230916T190000
-DESCRIPTION:Ergebnis: - : -\nEintritt: \nBratwurst: Schlecht\nBier: \nStuh
- l: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 22 : 0\nEintritt: \nBratwurst: Schlecht\nBier: \nStu
+ hl: ja\nTrommeln: ja
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
 END:VEVENT
@@ -240,8 +240,8 @@ BEGIN:VEVENT
 SUMMARY:Mülheim Shamrocks vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20230923T150000
 DTEND;TZID="UTC+02:00":20230923T180000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
 LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
  ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
 END:VEVENT
@@ -249,8 +249,8 @@ BEGIN:VEVENT
 SUMMARY:Wesseling Blackvenom vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230924T150000
 DTEND;TZID="UTC+02:00":20230924T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: umsonst\nBratwurst: Hotdog\nBier: \
- nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 20 : 0\nEintritt: umsonst\nBratwurst: Hotdog\nBier: 
+ \nStuhl: ja\nTrommeln: ja
 LOCATION:Kreuz Knippchen\, Wesseling\nhttps://www.google.de/maps/place/Kre
  uz%20Knippchen%2C%20Wesseling
 END:VEVENT
@@ -258,8 +258,8 @@ BEGIN:VEVENT
 SUMMARY:Herne Black Barons vs Kevelaer Kings
 DTSTART;TZID="UTC+02:00":20231001T150000
 DTEND;TZID="UTC+02:00":20231001T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: 5€\nBratwurst: Gut\nBier: \nStuhl
- : kann\nTrommeln: nein
+DESCRIPTION:Ergebnis: 0 : 42\nEintritt: 5€\nBratwurst: Gut\nBier: \nStuh
+ l: kann\nTrommeln: nein
 LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
  on%2C%20Herne
 END:VEVENT

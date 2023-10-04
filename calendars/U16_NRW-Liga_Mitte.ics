@@ -78,8 +78,8 @@ BEGIN:VEVENT
 SUMMARY:Mönchengladbach Wolfpack U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230903T110000
 DTEND;TZID="UTC+02:00":20230903T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 25 : 46\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
 LOCATION:BSA Odenkirchen Süd\, Mönchengladbach\nhttps://www.google.de/ma
  ps/place/BSA%20Odenkirchen%20S%C3%BCd%2C%20M%C3%B6nchengladbach
 END:VEVENT
@@ -87,8 +87,8 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230903T110000
 DTEND;TZID="UTC+02:00":20230903T140000
-DESCRIPTION:Ergebnis: - : -\nEintritt: \nBratwurst: Schlecht\nBier: \nStuh
- l: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 28 : 26\nEintritt: \nBratwurst: Schlecht\nBier: \nSt
+ uhl: ja\nTrommeln: ja
 LOCATION:BSA Odenkirchen Süd\, Mönchengladbach\nhttps://www.google.de/ma
  ps/place/BSA%20Odenkirchen%20S%C3%BCd%2C%20M%C3%B6nchengladbach
 END:VEVENT
@@ -97,8 +97,8 @@ SUMMARY:Mönchengladbach Wolfpack U16 vs SG Dorsten Reapers / Coesfeld Bul
  ls U16
 DTSTART;TZID="UTC+02:00":20230903T110000
 DTEND;TZID="UTC+02:00":20230903T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 24 : 33\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
 LOCATION:BSA Odenkirchen Süd\, Mönchengladbach\nhttps://www.google.de/ma
  ps/place/BSA%20Odenkirchen%20S%C3%BCd%2C%20M%C3%B6nchengladbach
 END:VEVENT
@@ -106,8 +106,8 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings U16 vs SG Dorsten Reapers / Coesfeld Bulls U16
 DTSTART;TZID="UTC+02:00":20230903T110000
 DTEND;TZID="UTC+02:00":20230903T140000
-DESCRIPTION:Ergebnis: - : -\nEintritt: \nBratwurst: Schlecht\nBier: \nStuh
- l: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 25 : 19\nEintritt: \nBratwurst: Schlecht\nBier: \nSt
+ uhl: ja\nTrommeln: ja
 LOCATION:BSA Odenkirchen Süd\, Mönchengladbach\nhttps://www.google.de/ma
  ps/place/BSA%20Odenkirchen%20S%C3%BCd%2C%20M%C3%B6nchengladbach
 END:VEVENT

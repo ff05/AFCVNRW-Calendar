@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import requests, bs4, datetime, pytz, overpy
+import requests, bs4, datetime, pytz
 from icalendar import Calendar, Event
 from requests.structures import CaseInsensitiveDict
 from urllib.parse import quote
