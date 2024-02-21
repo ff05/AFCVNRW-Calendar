@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Damenbundesliga_2-Nord Calendar//
+BEGIN:VEVENT
+SUMMARY:Bochum Miners Damen vs Krefeld Ravens Damen
+DTSTART;TZID="UTC+02:00":20240519T150000
+DTEND;TZID="UTC+02:00":20240519T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
+ Schultenhof%2C%20Bochum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Assassins Damen vs Mülheim Shamrocks Damen
+DTSTART;TZID="UTC+02:00":20240519T150000
+DTEND;TZID="UTC+02:00":20240519T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Ronin/Vampires Damen vs Mülheim Shamrocks Damen
+DTSTART;TZID="UTC+02:00":20240602T150000
+DTEND;TZID="UTC+02:00":20240602T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen\nhttps://www.google.de/maps/place/
+ Ludwig-Kuhnen-Stadion%2C%20Aachen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Assassins Damen vs Bochum Miners Damen
+DTSTART;TZID="UTC+02:00":20240602T150000
+DTEND;TZID="UTC+02:00":20240602T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krefeld Ravens Damen vs Mülheim Shamrocks Damen
+DTSTART;TZID="UTC+02:00":20240616T150000
+DTEND;TZID="UTC+02:00":20240616T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Sprödentalplatz\, Krefeld\nhttps://www.google.de/maps/place/Spr%
+ C3%B6dentalplatz%2C%20Krefeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Ronin/Vampires Damen vs SG Assassins Damen
+DTSTART;TZID="UTC+02:00":20240616T150000
+DTEND;TZID="UTC+02:00":20240616T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen\nhttps://www.google.de/maps/place/
+ Ludwig-Kuhnen-Stadion%2C%20Aachen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum Miners Damen vs SG Ronin/Vampires Damen
+DTSTART;TZID="UTC+02:00":20240623T150000
+DTEND;TZID="UTC+02:00":20240623T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
+ Schultenhof%2C%20Bochum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mülheim Shamrocks Damen vs Krefeld Ravens Damen
+DTSTART;TZID="UTC+02:00":20240623T150000
+DTEND;TZID="UTC+02:00":20240623T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
+ ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mülheim Shamrocks Damen vs Bochum Miners Damen
+DTSTART;TZID="UTC+02:00":20240707T150000
+DTEND;TZID="UTC+02:00":20240707T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
+ ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krefeld Ravens Damen vs SG Ronin/Vampires Damen
+DTSTART;TZID="UTC+02:00":20240707T150000
+DTEND;TZID="UTC+02:00":20240707T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Sprödentalplatz\, Krefeld\nhttps://www.google.de/maps/place/Spr%
+ C3%B6dentalplatz%2C%20Krefeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mülheim Shamrocks Damen vs SG Assassins Damen
+DTSTART;TZID="UTC+02:00":20240721T150000
+DTEND;TZID="UTC+02:00":20240721T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
+ ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krefeld Ravens Damen vs Bochum Miners Damen
+DTSTART;TZID="UTC+02:00":20240721T150000
+DTEND;TZID="UTC+02:00":20240721T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Sprödentalplatz\, Krefeld\nhttps://www.google.de/maps/place/Spr%
+ C3%B6dentalplatz%2C%20Krefeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mülheim Shamrocks Damen vs SG Ronin/Vampires Damen
+DTSTART;TZID="UTC+02:00":20240804T150000
+DTEND;TZID="UTC+02:00":20240804T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
+ ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krefeld Ravens Damen vs SG Assassins Damen
+DTSTART;TZID="UTC+02:00":20240804T150000
+DTEND;TZID="UTC+02:00":20240804T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Sprödentalplatz\, Krefeld\nhttps://www.google.de/maps/place/Spr%
+ C3%B6dentalplatz%2C%20Krefeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Assassins Damen vs SG Ronin/Vampires Damen
+DTSTART;TZID="UTC+02:00":20240811T150000
+DTEND;TZID="UTC+02:00":20240811T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum Miners Damen vs Mülheim Shamrocks Damen
+DTSTART;TZID="UTC+02:00":20240811T150000
+DTEND;TZID="UTC+02:00":20240811T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
+ Schultenhof%2C%20Bochum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Assassins Damen vs Krefeld Ravens Damen
+DTSTART;TZID="UTC+02:00":20240825T150000
+DTEND;TZID="UTC+02:00":20240825T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Ronin/Vampires Damen vs Bochum Miners Damen
+DTSTART;TZID="UTC+02:00":20240825T150000
+DTEND;TZID="UTC+02:00":20240825T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen\nhttps://www.google.de/maps/place/
+ Ludwig-Kuhnen-Stadion%2C%20Aachen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum Miners Damen vs SG Assassins Damen
+DTSTART;TZID="UTC+02:00":20240901T150000
+DTEND;TZID="UTC+02:00":20240901T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
+ Schultenhof%2C%20Bochum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Ronin/Vampires Damen vs Krefeld Ravens Damen
+DTSTART;TZID="UTC+02:00":20240901T150000
+DTEND;TZID="UTC+02:00":20240901T180000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen\nhttps://www.google.de/maps/place/
+ Ludwig-Kuhnen-Stadion%2C%20Aachen
+END:VEVENT
+END:VCALENDAR

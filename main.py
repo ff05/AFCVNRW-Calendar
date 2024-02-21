@@ -1,11 +1,15 @@
 #!/usr/bin/env python
-import requests, bs4, datetime, pytz
+from pytz import timezone
+from datetime import datetime, timedelta
+from bs4 import BeautifulSoup
+from requests import post
 from icalendar import Calendar, Event
 from requests.structures import CaseInsensitiveDict
 from urllib.parse import quote
+from os import makedirs, path
 import config
 
-tz = pytz.timezone("Europe/Berlin")
+tz = timezone("Europe/Berlin")
 
 
 def createCalendar(plan, name):
@@ -14,17 +18,18 @@ def createCalendar(plan, name):
   cal.add("version", "2.0")
   for gameday in plan:
     game = Event()
-    kickoff = datetime.datetime.strptime(
+    kickoff = datetime.strptime(
       f"{gameday['kickoff']}-+0200", "%m/%d/%Y, %H:%M:%S-%z"
     )
+    year = kickoff.year
     location = f"{gameday['stadium']}\nhttps://www.google.de/maps/place/{quote(gameday['stadium'])}"
     game.add("summary", f"{gameday['hometeam']} vs {gameday['guestteam']}")
     game.add("dtstart", kickoff)
-    game.add("dtend", kickoff + datetime.timedelta(hours=3))
+    game.add("dtend", kickoff + timedelta(hours=3))
     game.add("location", location)
     game.add("description", gameday['description'])
     cal.add_component(game)
-  return cal
+  return cal, year
 
 def get_league_data(league_id):
   url = "https://afcvnrw.de/wp-content/themes/afcv/ajax/games_spielplan.php"
@@ -45,12 +50,12 @@ def get_league_data(league_id):
   headers['x-requested-with'] = "XMLHttpRequest"
   # data = "league=493"
   data = f"league={str(league_id)}"
-  page = requests.post(url, headers=headers, data=data)
-  return bs4.BeautifulSoup(page.content, "lxml")
+  page = post(url, headers=headers, data=data)
+  return BeautifulSoup(page.content, "lxml")
 
 def get_game(spiel, info):
   game= {}
-  game['kickoff'] = datetime.datetime.strptime((spiel.find("div", {"class": "kickoff"}).text),"%d.%m.%y um %H:%M Uhr",).strftime("%m/%d/%Y, %H:%M:%S")
+  game['kickoff'] = datetime.strptime((spiel.find("div", {"class": "kickoff"}).text),"%d.%m.%y um %H:%M Uhr",).strftime("%m/%d/%Y, %H:%M:%S")
   game['hometeam'] = spiel.find("div", {"class": "team1"}).text
   game['guestteam'] = spiel.find("div", {"class": "team2"}).text
   game['stadium'] = info.find("div", {"class": "game_stadium"}).text[7:]
@@ -106,16 +111,23 @@ def main(league_id, leaguename):
     else:
       teamname = teamplan[0]['guestteam']
     teamfilename = teamname.replace('/','-').replace(' ','_').replace('Ä','Ae').replace('Ö','Oe').replace('Ü','Ue').replace('ä','ae').replace('ö','oe').replace('ü','ue').replace('ß','ss')
-    teamcal = createCalendar(teamplan, teamname)
-    f = open(f"calendars/{teamfilename}.ics", "wb")
+    teamcal, year = createCalendar(teamplan, teamname)
+    if not path.exists(f"calendars/{year}"):
+      makedirs(f"calendars/{year}")
+    print(f'saving calendar {teamfilename}.ics')
+    f = open(f"calendars/{year}/{teamfilename}.ics", "wb")
     f.write(teamcal.to_ical())
     f.close()
-  leaguecal = createCalendar(ligaplan, leaguename)
-  f = open(f"calendars/{leaguename}.ics", "wb")
+  leaguecal, year = createCalendar(ligaplan, leaguename)
+  if not path.exists(f"calendars/{year}"):
+    makedirs(f"calendars/{year}")
+  print(f'saving calendar {leaguename}.ics')
+  f = open(f"calendars/{year}/{leaguename}.ics", "wb")
   f.write(leaguecal.to_ical())
   f.close()
 
 if __name__ == "__main__":
   for league in config.LEAGUE_IDS:
+    print(f'processing leage: {league["name"]}')
     main(league['id'], league['name'])
 
