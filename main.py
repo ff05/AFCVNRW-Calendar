@@ -7,6 +7,7 @@ from icalendar import Calendar, Event
 from requests.structures import CaseInsensitiveDict
 from urllib.parse import quote
 from os import makedirs, path
+from pprint import pprint
 import config
 
 tz = timezone("Europe/Berlin")
@@ -65,7 +66,7 @@ def get_game(spiel, info):
   for team in config.TEAM_COMMENTS:
     if not 'Stadion' in config.TEAM_COMMENTS[team]:
       continue
-    if game['stadium'] == config.TEAM_COMMENTS[team]['Stadion']:
+    if game['stadium'] in config.TEAM_COMMENTS[team]['Stadion']:
       found_by_stadium=True
       for k,v in config.TEAM_COMMENTS[team].items():
         if k in ['Stadion']:
@@ -99,12 +100,17 @@ def main(league_id, leaguename):
   spielplaninfo = soup.findAll("div", {"class": "game_info spielplaninfo"})
   ligaplan = []
   teamplan = []
+  stadiumdict = CaseInsensitiveDict()
   for spiel in spielplan:
     info=spielplaninfo[spielplan.index(spiel)]
     game = get_game(spiel,info)
     ligaplan.append(game)
     if game['hometeam'] in config.TEAMS or game['guestteam'] in config.TEAMS:
       teamplan.append(game)
+    if game['hometeam'] not in stadiumdict:
+      stadiumdict[game['hometeam']] = []
+    if game['stadium'] not in stadiumdict[game['hometeam']]:
+      stadiumdict[game['hometeam']].append(game['stadium'])
   if len(teamplan) > 1:
     if teamplan[0]['hometeam'] in config.TEAMS:
       teamname = teamplan[0]['hometeam']
@@ -119,6 +125,7 @@ def main(league_id, leaguename):
     f.write(teamcal.to_ical())
     f.close()
   leaguecal, year = createCalendar(ligaplan, leaguename)
+  pprint(stadiumdict)
   if not path.exists(f"calendars/{year}"):
     makedirs(f"calendars/{year}")
   print(f'saving calendar {leaguename}.ics')

@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Rheine Raptors
 DTSTART;TZID="UTC+02:00":20240420T150000
 DTEND;TZID="UTC+02:00":20240420T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: "umsonst"\nBratwurst: Gut\nBier: St
- auder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -74,13 +74,13 @@ LOCATION:Hofbachstadion\, Siegen-Geisweid\nhttps://www.google.de/maps/plac
  e/Hofbachstadion%2C%20Siegen-Geisweid
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gelsenkirchen Devils vs Bochum Rebels
-DTSTART;TZID="UTC+02:00":20240525T150000
-DTEND;TZID="UTC+02:00":20240525T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: "umsonst"\nBratwurst: Gut\nBier: St
- auder\nStuhl: nein\nTrommeln: ja
-LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
- lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+SUMMARY:Bochum Rebels vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20240525T170000
+DTEND;TZID="UTC+02:00":20240525T200000
+DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
+ Schultenhof%2C%20Bochum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rheine Raptors vs Recklinghausen Chargers
@@ -124,8 +124,8 @@ DTSTART;TZID="UTC+02:00":20240622T150000
 DTEND;TZID="UTC+02:00":20240622T180000
 DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
   \nStuhl: ja\nTrommeln: ja
-LOCATION:Hofbachstadion\, Siegen-Geisweid\nhttps://www.google.de/maps/plac
- e/Hofbachstadion%2C%20Siegen-Geisweid
+LOCATION:Glück-Auf-Kampfbahn\, Siegen (Weidenau)\nhttps://www.google.de/m
+ aps/place/Gl%C3%BCck-Auf-Kampfbahn%2C%20Siegen%20%28Weidenau%29
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rheine Raptors vs Bochum Rebels
@@ -169,8 +169,8 @@ DTSTART;TZID="UTC+02:00":20240907T150000
 DTEND;TZID="UTC+02:00":20240907T180000
 DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
   \nStuhl: ja\nTrommeln: ja
-LOCATION:Hofbachstadion\, Siegen-Geisweid\nhttps://www.google.de/maps/plac
- e/Hofbachstadion%2C%20Siegen-Geisweid
+LOCATION:Glück-Auf-Kampfbahn\, Siegen (Weidenau)\nhttps://www.google.de/m
+ aps/place/Gl%C3%BCck-Auf-Kampfbahn%2C%20Siegen%20%28Weidenau%29
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bochum Rebels vs Recklinghausen Chargers
@@ -185,8 +185,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Lippstadt Eagles
 DTSTART;TZID="UTC+02:00":20240914T150000
 DTEND;TZID="UTC+02:00":20240914T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: "umsonst"\nBratwurst: Gut\nBier: St
- auder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -200,13 +200,13 @@ LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst%2C%20Recklinghausen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bochum Rebels vs Gelsenkirchen Devils
-DTSTART;TZID="UTC+02:00":20240921T170000
-DTEND;TZID="UTC+02:00":20240921T200000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
-LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
- Schultenhof%2C%20Bochum
+SUMMARY:Gelsenkirchen Devils vs Bochum Rebels
+DTSTART;TZID="UTC+02:00":20240921T150000
+DTEND;TZID="UTC+02:00":20240921T180000
+DESCRIPTION:Ergebnis: - : -\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lippstadt Eagles vs Siegen Sentinels
@@ -221,8 +221,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Recklinghausen Chargers
 DTSTART;TZID="UTC+02:00":20240928T150000
 DTEND;TZID="UTC+02:00":20240928T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: "umsonst"\nBratwurst: Gut\nBier: St
- auder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -232,8 +232,8 @@ DTSTART;TZID="UTC+02:00":20240928T150000
 DTEND;TZID="UTC+02:00":20240928T180000
 DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
   \nStuhl: ja\nTrommeln: ja
-LOCATION:Hofbachstadion\, Siegen-Geisweid\nhttps://www.google.de/maps/plac
- e/Hofbachstadion%2C%20Siegen-Geisweid
+LOCATION:Glück-Auf-Kampfbahn\, Siegen (Weidenau)\nhttps://www.google.de/m
+ aps/place/Gl%C3%BCck-Auf-Kampfbahn%2C%20Siegen%20%28Weidenau%29
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rheine Raptors vs Lippstadt Eagles
@@ -257,8 +257,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Siegen Sentinels
 DTSTART;TZID="UTC+02:00":20241005T150000
 DTEND;TZID="UTC+02:00":20241005T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: "umsonst"\nBratwurst: Gut\nBier: St
- auder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT

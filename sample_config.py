@@ -23,7 +23,8 @@ TEAM_COMMENTS = {
         "Trommeln": "ja"
     },
     "Gelsenkirchen Devils": {
-        "Eintritt": '"umsonst"',
+        'Stadion': 'Fürstenbergstadion, Gelsenkirchen',
+        "Eintritt": 'umsonst',
         "Bratwurst": "Gut",
         "Bier": "Stauder",
         "Stuhl": "nein",
