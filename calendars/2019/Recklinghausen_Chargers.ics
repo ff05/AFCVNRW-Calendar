@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Lippstadt Eagles
+DTSTART;TZID="UTC+02:00":20190504T170000
+DTEND;TZID="UTC+02:00":20190504T200000
+DESCRIPTION:Ergebnis: 27 : 26\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sauerland Mustangs vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20190511T170000
+DTEND;TZID="UTC+02:00":20190511T200000
+DESCRIPTION:Ergebnis: 14 : 21\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Kampfbahn Boelerheide\, Hagen\nhttps://www.google.de/maps/place/K
+ ampfbahn%20Boelerheide%2C%20Hagen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sauerland Mustangs vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20190512T170000
+DTEND;TZID="UTC+02:00":20190512T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Kampfbahn Boelerheide\, Hagen\nhttps://www.google.de/maps/place/K
+ ampfbahn%20Boelerheide%2C%20Hagen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Hamm Aces
+DTSTART;TZID="UTC+02:00":20190601T170000
+DTEND;TZID="UTC+02:00":20190601T200000
+DESCRIPTION:Ergebnis: 22 : 12\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siegen Sentinels vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20190608T170000
+DTEND;TZID="UTC+02:00":20190608T200000
+DESCRIPTION:Ergebnis: 35 : 13\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Hofbachstadion\, Siegen-Geisweid\nhttps://www.google.de/maps/plac
+ e/Hofbachstadion%2C%20Siegen-Geisweid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum Rebels vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20190622T180000
+DTEND;TZID="UTC+02:00":20190622T210000
+DESCRIPTION:Ergebnis: 6 : 34\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
+ Schultenhof%2C%20Bochum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lippstadt Eagles vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20190714T170000
+DTEND;TZID="UTC+02:00":20190714T200000
+DESCRIPTION:Ergebnis: 42 : 28\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion am Waldschlösschen\, Lippstadt\nhttps://www.google.de/ma
+ ps/place/Stadion%20am%20Waldschl%C3%B6sschen%2C%20Lippstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Sauerland Mustangs
+DTSTART;TZID="UTC+02:00":20190824T170000
+DTEND;TZID="UTC+02:00":20190824T200000
+DESCRIPTION:Ergebnis: 37 : 12\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamm Aces vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20190908T170000
+DTEND;TZID="UTC+02:00":20190908T200000
+DESCRIPTION:Ergebnis: 6 : 15\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportpark Süd/Acesfield\, Hamm\nhttps://www.google.de/maps/place
+ /Sportpark%20S%C3%BCd/Acesfield%2C%20Hamm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Bochum Rebels
+DTSTART;TZID="UTC+02:00":20190928T170000
+DTEND;TZID="UTC+02:00":20190928T200000
+DESCRIPTION:Ergebnis: 21 : 22\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Siegen Sentinels
+DTSTART;TZID="UTC+02:00":20191003T170000
+DTEND;TZID="UTC+02:00":20191003T200000
+DESCRIPTION:Ergebnis: 30 : 13\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+END:VCALENDAR

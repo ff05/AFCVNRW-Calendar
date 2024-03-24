@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Sauerland Mustangs
+DTSTART;TZID="UTC+02:00":20160416T170000
+DTEND;TZID="UTC+02:00":20160416T200000
+DESCRIPTION:Ergebnis: 12 : 7\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf Bulldozer vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20160430T180000
+DTEND;TZID="UTC+02:00":20160430T210000
+DESCRIPTION:Ergebnis: 0 : 14\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportpark Niederheid\, Düsseldorf\nhttps://www.google.de/maps/pl
+ ace/Sportpark%20Niederheid%2C%20D%C3%BCsseldorf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Bergisch Land Phoenix
+DTSTART;TZID="UTC+02:00":20160514T170000
+DTEND;TZID="UTC+02:00":20160514T200000
+DESCRIPTION:Ergebnis: 25 : 6\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum Rebels vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20160529T170000
+DTEND;TZID="UTC+02:00":20160529T200000
+DESCRIPTION:Ergebnis: 0 : 35\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
+ Schultenhof%2C%20Bochum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sauerland Mustangs vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20160625T170000
+DTEND;TZID="UTC+02:00":20160625T200000
+DESCRIPTION:Ergebnis: 18 : 13\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Kampfbahn Boelerheide\, Hagen\nhttps://www.google.de/maps/place/K
+ ampfbahn%20Boelerheide%2C%20Hagen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Kevelaer Kings
+DTSTART;TZID="UTC+02:00":20160702T170000
+DTEND;TZID="UTC+02:00":20160702T200000
+DESCRIPTION:Ergebnis: 14 : 12\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Düsseldorf Bulldozer
+DTSTART;TZID="UTC+02:00":20160827T170000
+DTEND;TZID="UTC+02:00":20160827T200000
+DESCRIPTION:Ergebnis: 16 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bergisch Land Phoenix vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20160910T170000
+DTEND;TZID="UTC+02:00":20160910T200000
+DESCRIPTION:Ergebnis: 6 : 57\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hämmern\, Wipperfürth\nhttps://www.google.de/maps/place
+ /Stadion%20H%C3%A4mmern%2C%20Wipperf%C3%BCrth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Bochum Rebels
+DTSTART;TZID="UTC+02:00":20160924T170000
+DTEND;TZID="UTC+02:00":20160924T200000
+DESCRIPTION:Ergebnis: 38 : 8\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kevelaer Kings vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20161001T170000
+DTEND;TZID="UTC+02:00":20161001T200000
+DESCRIPTION:Ergebnis: 0 : 10\nEintritt: \nBratwurst: Schlecht\nBier: \nStu
+ hl: ja\nTrommeln: ja
+LOCATION:Union Kervenheim\, Kevelaer\nhttps://www.google.de/maps/place/Uni
+ on%20Kervenheim%2C%20Kevelaer
+END:VEVENT
+END:VCALENDAR

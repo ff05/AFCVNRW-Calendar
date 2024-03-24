@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Mülheim Shamrocks vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20170429T180000
+DTEND;TZID="UTC+02:00":20170429T210000
+DESCRIPTION:Ergebnis: 23 : 7\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
+ ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Bocholt Rhinos
+DTSTART;TZID="UTC+02:00":20170506T180000
+DTEND;TZID="UTC+02:00":20170506T210000
+DESCRIPTION:Ergebnis: 46 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Wuppertal Greyhounds
+DTSTART;TZID="UTC+02:00":20170603T180000
+DTEND;TZID="UTC+02:00":20170603T210000
+DESCRIPTION:Ergebnis: 24 : 20\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamm Aces vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20170618T170000
+DTEND;TZID="UTC+02:00":20170618T200000
+DESCRIPTION:Ergebnis: 6 : 27\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportpark Süd/Acesfield\, Hamm\nhttps://www.google.de/maps/place
+ /Sportpark%20S%C3%BCd/Acesfield%2C%20Hamm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Mülheim Shamrocks
+DTSTART;TZID="UTC+02:00":20170701T180000
+DTEND;TZID="UTC+02:00":20170701T210000
+DESCRIPTION:Ergebnis: 24 : 23\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bocholt Rhinos vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20171008T170000
+DTEND;TZID="UTC+02:00":20171008T200000
+DESCRIPTION:Ergebnis: 0 : 26\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:TSV Bocholt\, Bocholt\nhttps://www.google.de/maps/place/TSV%20Boc
+ holt%2C%20Bocholt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Hamm Aces
+DTSTART;TZID="UTC+02:00":20171014T180000
+DTEND;TZID="UTC+02:00":20171014T210000
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuppertal Greyhounds vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20171031T160000
+DTEND;TZID="UTC+02:00":20171031T190000
+DESCRIPTION:Ergebnis: 8 : 10\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Gelber Sprung\, Wuppertal\nhttps://www.google.de/maps/place/S
+ pA%20Gelber%20Sprung%2C%20Wuppertal
+END:VEVENT
+END:VCALENDAR

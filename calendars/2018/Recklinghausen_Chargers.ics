@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Dortmund Giants vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20180415T170000
+DTEND;TZID="UTC+02:00":20180415T200000
+DESCRIPTION:Ergebnis: 30 : 18\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Hoeschpark\, Dortmund\nhttps://www.google.de/maps/place/Hoeschpar
+ k%2C%20Dortmund
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Aachen Vampires
+DTSTART;TZID="UTC+02:00":20180428T180000
+DTEND;TZID="UTC+02:00":20180428T210000
+DESCRIPTION:Ergebnis: 0 : 39\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster Blackhawks vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20180513T170000
+DTEND;TZID="UTC+02:00":20180513T200000
+DESCRIPTION:Ergebnis: 34 : 0\nEintritt: \nBratwurst: Gut\nBier: \nStuhl: j
+ a\nTrommeln: Ja
+LOCATION:Sportpark Sentruper\, Münster\nhttps://www.google.de/maps/place/
+ Sportpark%20Sentruper%2C%20M%C3%BCnster
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Münster Mammuts
+DTSTART;TZID="UTC+02:00":20180526T180000
+DTEND;TZID="UTC+02:00":20180526T210000
+DESCRIPTION:Ergebnis: 0 : 54\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siegen Sentinels vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20180616T170000
+DTEND;TZID="UTC+02:00":20180616T200000
+DESCRIPTION:Ergebnis: 63 : 13\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Hofbachstadion\, Siegen-Geisweid\nhttps://www.google.de/maps/plac
+ e/Hofbachstadion%2C%20Siegen-Geisweid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Dortmund Giants
+DTSTART;TZID="UTC+02:00":20180624T180000
+DTEND;TZID="UTC+02:00":20180624T210000
+DESCRIPTION:Ergebnis: 7 : 59\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aachen Vampires vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20180630T170000
+DTEND;TZID="UTC+02:00":20180630T200000
+DESCRIPTION:Ergebnis: 42 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen-Burtscheid\nhttps://www.google.de/
+ maps/place/Ludwig-Kuhnen-Stadion%2C%20Aachen-Burtscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Münster Blackhawks
+DTSTART;TZID="UTC+02:00":20180901T180000
+DTEND;TZID="UTC+02:00":20180901T210000
+DESCRIPTION:Ergebnis: 0 : 30\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster Mammuts vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20180909T170000
+DTEND;TZID="UTC+02:00":20180909T200000
+DESCRIPTION:Ergebnis: 26 : 7\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Wangeroogeweg \, Münster\nhttps://www.google.de/maps/place/S
+ pA%20Wangeroogeweg%20%2C%20M%C3%BCnster
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Siegen Sentinels
+DTSTART;TZID="UTC+02:00":20180922T180000
+DTEND;TZID="UTC+02:00":20180922T210000
+DESCRIPTION:Ergebnis: 14 : 34\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+END:VCALENDAR

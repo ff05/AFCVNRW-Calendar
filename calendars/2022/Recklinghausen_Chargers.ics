@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Brilon Lumberjacks
+DTSTART;TZID="UTC+02:00":20220423T150000
+DTEND;TZID="UTC+02:00":20220423T180000
+DESCRIPTION:Ergebnis: 3 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Hamm Aces
+DTSTART;TZID="UTC+02:00":20220507T150000
+DTEND;TZID="UTC+02:00":20220507T180000
+DESCRIPTION:Ergebnis: 25 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herne Black Barons vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20220522T150000
+DTEND;TZID="UTC+02:00":20220522T180000
+DESCRIPTION:Ergebnis: 0 : 14\nEintritt: 5€\nBratwurst: Gut\nBier: \nStuh
+ l: kann\nTrommeln: nein
+LOCATION:Horststadion\, Herne\nhttps://www.google.de/maps/place/Horststadi
+ on%2C%20Herne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lippstadt Eagles vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20220529T150000
+DTEND;TZID="UTC+02:00":20220529T180000
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion am Waldschlösschen\, Lippstadt\nhttps://www.google.de/ma
+ ps/place/Stadion%20am%20Waldschl%C3%B6sschen%2C%20Lippstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minden Wolves vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20220611T150000
+DTEND;TZID="UTC+02:00":20220611T180000
+DESCRIPTION:Ergebnis: 38 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Weserstadion\, Minden\nhttps://www.google.de/maps/place/Weserstad
+ ion%2C%20Minden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brilon Lumberjacks vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20220806T150000
+DTEND;TZID="UTC+02:00":20220806T180000
+DESCRIPTION:Ergebnis: 0 : 20\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportanlagen des SV Brilon\, Brilon\nhttps://www.google.de/maps/p
+ lace/Sportanlagen%20des%20SV%20Brilon%2C%20Brilon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Lippstadt Eagles
+DTSTART;TZID="UTC+02:00":20220820T150000
+DTEND;TZID="UTC+02:00":20220820T180000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Lippstadt Eagles
+DTSTART;TZID="UTC+02:00":20220820T150000
+DTEND;TZID="UTC+02:00":20220820T180000
+DESCRIPTION:Ergebnis: 3 : 24\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamm Aces vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20220827T150000
+DTEND;TZID="UTC+02:00":20220827T180000
+DESCRIPTION:Ergebnis: 7 : 33\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnstadion\, Hamm\nhttps://www.google.de/maps/place/Jahnstadion%
+ 2C%20Hamm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Herne Black Barons
+DTSTART;TZID="UTC+02:00":20220910T150000
+DTEND;TZID="UTC+02:00":20220910T180000
+DESCRIPTION:Ergebnis: 13 : 6\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Minden Wolves
+DTSTART;TZID="UTC+02:00":20221001T150000
+DTEND;TZID="UTC+02:00":20221001T180000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Minden Wolves
+DTSTART;TZID="UTC+02:00":20221230T150000
+DTEND;TZID="UTC+02:00":20221230T180000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+END:VCALENDAR

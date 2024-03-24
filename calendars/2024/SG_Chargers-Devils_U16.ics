@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:SG Wesseling/Siegen U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20240602T110000
 DTEND;TZID="UTC+02:00":20240602T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nEintritt: umsonst\nBratwurst: Hotdog\nBier: \
+ nStuhl: ja\nTrommeln: ja
 LOCATION:Kreuz Knippchen\, Wesseling\nhttps://www.google.de/maps/place/Kre
  uz%20Knippchen%2C%20Wesseling
 END:VEVENT

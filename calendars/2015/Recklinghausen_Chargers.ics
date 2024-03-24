@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Bochum Cadets
+DTSTART;TZID="UTC+02:00":20150418T180000
+DTEND;TZID="UTC+02:00":20150418T210000
+DESCRIPTION:Ergebnis: 6 : 18\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster Black Hawks vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20150502T170000
+DTEND;TZID="UTC+02:00":20150502T200000
+DESCRIPTION:Ergebnis: 53 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportpark Sentruper\, Münster\nhttps://www.google.de/maps/place/
+ Sportpark%20Sentruper%2C%20M%C3%BCnster
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sauerland Mustangs vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20150509T170000
+DTEND;TZID="UTC+02:00":20150509T200000
+DESCRIPTION:Ergebnis: 33 : 7\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Kampfbahn Boelerheide\, Hagen\nhttps://www.google.de/maps/place/K
+ ampfbahn%20Boelerheide%2C%20Hagen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Bielefeld Bulldogs II
+DTSTART;TZID="UTC+02:00":20150516T180000
+DTEND;TZID="UTC+02:00":20150516T210000
+DESCRIPTION:Ergebnis: 0 : 18\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mülheim Shamrocks vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20150531T170000
+DTEND;TZID="UTC+02:00":20150531T200000
+DESCRIPTION:Ergebnis: 43 : 14\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportplatz Wenderfeld\, Mülheim (Ruhr)\nhttps://www.google.de/ma
+ ps/place/Sportplatz%20Wenderfeld%2C%20M%C3%BClheim%20%28Ruhr%29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum Cadets vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20150614T170000
+DTEND;TZID="UTC+02:00":20150614T200000
+DESCRIPTION:Ergebnis: 20 : 13\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
+ Schultenhof%2C%20Bochum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Münster Black Hawks
+DTSTART;TZID="UTC+02:00":20150815T170000
+DTEND;TZID="UTC+02:00":20150815T200000
+DESCRIPTION:Ergebnis: 0 : 33\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Sauerland Mustangs
+DTSTART;TZID="UTC+02:00":20150829T170000
+DTEND;TZID="UTC+02:00":20150829T200000
+DESCRIPTION:Ergebnis: 6 : 20\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bielefeld Bulldogs II vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20150906T170000
+DTEND;TZID="UTC+02:00":20150906T200000
+DESCRIPTION:Ergebnis: 7 : 6\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Radrennbahn\, Bielefeld\nhttps://www.google.de/maps/place/Radrenn
+ bahn%2C%20Bielefeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Mülheim Shamrocks
+DTSTART;TZID="UTC+02:00":20151003T170000
+DTEND;TZID="UTC+02:00":20151003T200000
+DESCRIPTION:Ergebnis: 7 : 21\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+END:VCALENDAR

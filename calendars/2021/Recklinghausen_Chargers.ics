@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Lippstadt Eagles vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20210829T150000
+DTEND;TZID="UTC+02:00":20210829T180000
+DESCRIPTION:Ergebnis: 6 : 24\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion am Waldschlösschen\, Lippstadt\nhttps://www.google.de/ma
+ ps/place/Stadion%20am%20Waldschl%C3%B6sschen%2C%20Lippstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund Giants vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20210904T180000
+DTEND;TZID="UTC+02:00":20210904T210000
+DESCRIPTION:Ergebnis: 39 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Hoeschpark\, Dortmund\nhttps://www.google.de/maps/place/Hoeschpar
+ k%2C%20Dortmund
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Dortmund Giants
+DTSTART;TZID="UTC+02:00":20211002T150000
+DTEND;TZID="UTC+02:00":20211002T180000
+DESCRIPTION:Ergebnis: 13 : 20\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Lippstadt Eagles
+DTSTART;TZID="UTC+02:00":20211009T150000
+DTEND;TZID="UTC+02:00":20211009T180000
+DESCRIPTION:Ergebnis: 30 : 13\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+END:VCALENDAR

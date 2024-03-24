@@ -7,12 +7,13 @@ from icalendar import Calendar, Event
 from requests.structures import CaseInsensitiveDict
 from urllib.parse import quote
 from os import makedirs, path, listdir
-from pprint import pprint
+from json import dumps as json_dumps
+from copy import copy
 import config
 import re
 
 tz = timezone("Europe/Berlin")
-
+ypattern = re.compile("^.{0,}(Jugend|Flag|Youth|Rookies|Juniors|I{2,}|\d).*")
 
 def createCalendar(plan, name):
   cal = Calendar()
@@ -64,9 +65,8 @@ def get_game(spiel, info):
   game['description'] = [f'Ergebnis: {spiel.find("div",{"class":"resultbox"}).text}']
   found_by_stadium=False
   found_by_teamname=False
+  config.TEAM_COMMENTS['1DEFAULT']['Stadion'] = []
   for team in config.TEAM_COMMENTS:
-    if not 'Stadion' in config.TEAM_COMMENTS[team]:
-      continue
     if game['stadium'] in config.TEAM_COMMENTS[team]['Stadion']:
       found_by_stadium=True
       for k,v in config.TEAM_COMMENTS[team].items():
@@ -90,7 +90,9 @@ def get_game(spiel, info):
             game['description'].append(f'{k}: {v}')
           break
   if not found_by_stadium and not found_by_teamname:
-    for k,v in config.TEAM_COMMENTS['DEFAULT'].items():
+    for k,v in config.TEAM_COMMENTS['1DEFAULT'].items():
+      if k in ['Stadion']:
+        continue
       game['description'].append(f'{k}: {v}')
   game['description'] = "\n".join(game['description'])
   return game
@@ -112,83 +114,100 @@ def merge_teamcals(filename):
   f.write(merged_cal.to_ical())
   f.close()
 
-def get_alltime_calendar(teamname):
-  namelist=[teamname]
-  ypattern = re.compile(".+U\d\d.*")
-  if not ypattern.match(teamname):
-    mpattern=re.compile("(.+ .+){2,}")
-    if mpattern.match(teamname):
-      namelist.append(teamname.split(" ")[1:])
-    else:
-      namelist.append(teamname.split(" ")[-1])      
+def merge_comments(game):
+  if not ypattern.match(game['hometeam']):
+    if game['hometeam'] not in configdict:
+      for team in configdict:
+        if game['stadium'] in configdict[team]['Stadion']:
+          return
+      configdict[game['hometeam']] = copy(config.TEAM_COMMENTS['1DEFAULT'])
+    if game['stadium'] not in configdict[game['hometeam']]['Stadion']:
+      configdict[game['hometeam']]['Stadion'].append(game['stadium'])
+
+def get_alltime_calendars(teams):
+  teamsdict = CaseInsensitiveDict()
+  for team in teams:
+    teamsdict[team] = CaseInsensitiveDict()
+    teamsdict[team]['names'] = [team]
+    if not ypattern.match(team):
+      mpattern=re.compile("(.+ .+){2,}")
+      if mpattern.match(team):
+        teamsdict[team]['names'].append(team.split(" ")[1:])
+      else:
+        teamsdict[team]['names'].append(team.split(" ")[-1])      
   league_id = 2
   while league_id < 600:
     print(f"procesing league_id: {league_id}")
     soup=get_league_data(league_id)
     inleague=False
-    for name in namelist:
-      if name in str(soup):
-        inleague=True
-        break
+    for team in teamsdict:
+      teamsdict[team]['found'] = False
+      for name in team:
+        if name in str(soup):
+          teamsdict[team]['found'] = True
+          teamsdict[team]['cal'] = []
+          inleague = True
     if not inleague:
       league_id += 1
       continue
+    namelist = []
+    for team in teamsdict:
+      if teamsdict[team]['found']:
+        for name in teamsdict[team]['names']:
+          namelist.append(name)
     spielplan = soup.findAll("div", {"class": "game_result spielplan"})
     spielplaninfo = soup.findAll("div", {"class": "game_info spielplaninfo"})
-    ligaplan = []
-    teamplan = []
     for spiel in spielplan:
       info=spielplaninfo[spielplan.index(spiel)]
+      config.TEAM_COMMENTS['1DEFAULT']['Stadion'] = []
       game = get_game(spiel,info)
-      ligaplan.append(game)
       if game['hometeam'] in namelist or game['guestteam'] in namelist:
-        teamplan.append(game)
-    teamfilename = f"{teamname.replace('/','-').replace(' ','_').replace('Ä','Ae').replace('Ö','Oe').replace('Ü','Ue').replace('ä','ae').replace('ö','oe').replace('ü','ue').replace('ß','ss')}.ics"
-    if len(teamplan) > 1:
-      teamcal, year = createCalendar(teamplan, teamname)
-      if not path.exists(f"calendars/{year}"):
-        makedirs(f"calendars/{year}")
-      print(f'saving calendar {teamfilename}')
-      f = open(f"calendars/{year}/{teamfilename}", "wb")
-      f.write(teamcal.to_ical())
-      f.close()
+        for team in teamsdict:
+          if game['hometeam'] in teamsdict[team]['names'] or game['guestteam'] in teamsdict[team]['names']:
+            teamsdict[team]['cal'].append(game)
+            merge_comments(game)
+    for team in teamsdict:
+      if not teamsdict[team]['found']:
+        continue
+      teamfilename = f"{team.replace('/','-').replace(' ','_').replace('Ä','Ae').replace('Ö','Oe').replace('Ü','Ue').replace('ä','ae').replace('ö','oe').replace('ü','ue').replace('ß','ss')}.ics"
+      if len(teamsdict[team]['cal']) > 1:
+        teamcal, year = createCalendar(teamsdict[team]['cal'], team)
+        if not path.exists(f"calendars/{year}"):
+          makedirs(f"calendars/{year}")
+        print(f'saving calendar {year} {teamfilename}')
+        f = open(f"calendars/{year}/{teamfilename}", "wb")
+        f.write(teamcal.to_ical())
+        f.close()
     league_id += 1
-  merge_teamcals(teamfilename)
 
 
-def main(league_id, leaguename):
+
+def main(league_id, leaguename, team):
   soup=get_league_data(league_id)
+  if not team in str(soup):
+    return False
   spielplan = soup.findAll("div", {"class": "game_result spielplan"})
   spielplaninfo = soup.findAll("div", {"class": "game_info spielplaninfo"})
   ligaplan = []
   teamplan = []
-  stadiumdict = CaseInsensitiveDict()
+  teamfilename = f"{team.replace('/','-').replace(' ','_').replace('Ä','Ae').replace('Ö','Oe').replace('Ü','Ue').replace('ä','ae').replace('ö','oe').replace('ü','ue').replace('ß','ss')}.ics"
   for spiel in spielplan:
     info=spielplaninfo[spielplan.index(spiel)]
+    config.TEAM_COMMENTS['1DEFAULT']['Stadion'] = []
     game = get_game(spiel,info)
     ligaplan.append(game)
-    if game['hometeam'] in config.TEAMS or game['guestteam'] in config.TEAMS:
+    if game['hometeam'] == team or game['guestteam'] == team:
       teamplan.append(game)
-    if game['hometeam'] not in stadiumdict:
-      stadiumdict[game['hometeam']] = []
-    if game['stadium'] not in stadiumdict[game['hometeam']]:
-      stadiumdict[game['hometeam']].append(game['stadium'])
+    merge_comments(game)
   if len(teamplan) > 1:
-    if teamplan[0]['hometeam'] in config.TEAMS:
-      teamname = teamplan[0]['hometeam']
-    else:
-      teamname = teamplan[0]['guestteam']
-    teamfilename = f"{teamname.replace('/','-').replace(' ','_').replace('Ä','Ae').replace('Ö','Oe').replace('Ü','Ue').replace('ä','ae').replace('ö','oe').replace('ü','ue').replace('ß','ss')}.ics"
-    teamcal, year = createCalendar(teamplan, teamname)
+    teamcal, year = createCalendar(teamplan, team)
     if not path.exists(f"calendars/{year}"):
       makedirs(f"calendars/{year}")
     print(f'saving calendar {teamfilename}')
     f = open(f"calendars/{year}/{teamfilename}", "wb")
     f.write(teamcal.to_ical())
     f.close()
-  merge_teamcals(teamfilename)
   leaguecal, year = createCalendar(ligaplan, leaguename)
-  pprint(stadiumdict)
   if not path.exists(f"calendars/{year}"):
     makedirs(f"calendars/{year}")
   print(f'saving calendar {leaguename}.ics')
@@ -197,8 +216,13 @@ def main(league_id, leaguename):
   f.close()
 
 if __name__ == "__main__":
-  for league in config.LEAGUE_IDS:
-    print(f'processing leage: {league["name"]}')
-    main(league['id'], league['name'])
-  # for team in config.TEAMS:
-  #   get_alltime_calendar(team)
+  configdict= copy(config.TEAM_COMMENTS)
+  for team in config.TEAMS:
+    for league in config.LEAGUE_IDS:
+      print(f'processing leage: {league["name"]}')
+      main(league['id'], league['name'], team)
+    teamfilename = f"{team.replace('/','-').replace(' ','_').replace('Ä','Ae').replace('Ö','Oe').replace('Ü','Ue').replace('ä','ae').replace('ö','oe').replace('ü','ue').replace('ß','ss')}.ics"
+    merge_teamcals(teamfilename)
+  get_alltime_calendars(config.TEAMS)
+  with open("new_comments", "w", encoding='utf8') as new_comments:
+    new_comments.write(json_dumps(configdict, indent=4, ensure_ascii=False, sort_keys=True))

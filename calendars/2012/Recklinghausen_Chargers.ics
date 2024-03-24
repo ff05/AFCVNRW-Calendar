@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Solingen Paladins vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20120506T170000
+DTEND;TZID="UTC+02:00":20120506T200000
+DESCRIPTION:Ergebnis: 7 : 6\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Köln Falcons II
+DTSTART;TZID="UTC+02:00":20120519T170000
+DTEND;TZID="UTC+02:00":20120519T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Köln Falcons II
+DTSTART;TZID="UTC+02:00":20120519T170000
+DTEND;TZID="UTC+02:00":20120519T200000
+DESCRIPTION:Ergebnis: 2 : 36\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cologne Crocodiles vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20120528T170000
+DTEND;TZID="UTC+02:00":20120528T200000
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20120603T170000
+DTEND;TZID="UTC+02:00":20120603T200000
+DESCRIPTION:Ergebnis: 0 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Leverkusen Tornados
+DTSTART;TZID="UTC+02:00":20120616T180000
+DTEND;TZID="UTC+02:00":20120616T210000
+DESCRIPTION:Ergebnis: 28 : 13\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Cologne Crocodiles
+DTSTART;TZID="UTC+02:00":20120701T170000
+DTEND;TZID="UTC+02:00":20120701T200000
+DESCRIPTION:Ergebnis: 12 : 21\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Solingen Paladins
+DTSTART;TZID="UTC+02:00":20120825T170000
+DTEND;TZID="UTC+02:00":20120825T200000
+DESCRIPTION:Ergebnis: 7 : 8\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solingen Paladins vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20120826T170000
+DTEND;TZID="UTC+02:00":20120826T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Solingen Paladins
+DTSTART;TZID="UTC+02:00":20120826T170000
+DTEND;TZID="UTC+02:00":20120826T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Köln Falcons II
+DTSTART;TZID="UTC+02:00":20120915T170000
+DTEND;TZID="UTC+02:00":20120915T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln Falcons II vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20120915T170000
+DTEND;TZID="UTC+02:00":20120915T200000
+DESCRIPTION:Ergebnis: 0 : 29\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20120929T170000
+DTEND;TZID="UTC+02:00":20120929T200000
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen Tornados vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20121006T170000
+DTEND;TZID="UTC+02:00":20121006T200000
+DESCRIPTION:Ergebnis: 6 : 14\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA am Kurtekotten (RTHC Hockeyanlage)\, Leverkusen\nhttps://www.
+ google.de/maps/place/SpA%20am%20Kurtekotten%20%28RTHC%20Hockeyanlage%29%2C
+ %20Leverkusen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20121020T170000
+DTEND;TZID="UTC+02:00":20121020T200000
+DESCRIPTION:Ergebnis: 27 : 7\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20121130T160000
+DTEND;TZID="UTC+02:00":20121130T190000
+DESCRIPTION:Ergebnis: 0 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Remscheid Amboss
+DTSTART;TZID="UTC+02:00":20110430T170000
+DTEND;TZID="UTC+02:00":20110430T200000
+DESCRIPTION:Ergebnis: 13 : 28\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paderborn Dolphins vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20110507T180000
+DTEND;TZID="UTC+02:00":20110507T210000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Hermann-Löns-Stadion\, Paderborn\nhttps://www.google.de/maps/pla
+ ce/Hermann-L%C3%B6ns-Stadion%2C%20Paderborn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paderborn Dolphins vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20110508T170000
+DTEND;TZID="UTC+02:00":20110508T200000
+DESCRIPTION:Ergebnis: 48 : 10\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Hermann-Löns-Stadion\, Paderborn\nhttps://www.google.de/maps/pla
+ ce/Hermann-L%C3%B6ns-Stadion%2C%20Paderborn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bielefeld Bulldogs vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20110521T200000
+DTEND;TZID="UTC+02:00":20110521T230000
+DESCRIPTION:Ergebnis: 56 : 6\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Rußheide\, Bielefeld\nhttps://www.google.de/maps/place/SpA%2
+ 0Ru%C3%9Fheide%2C%20Bielefeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aachen Vampires vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20110528T170000
+DTEND;TZID="UTC+02:00":20110528T200000
+DESCRIPTION:Ergebnis: 42 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen-Burtscheid\nhttps://www.google.de/
+ maps/place/Ludwig-Kuhnen-Stadion%2C%20Aachen-Burtscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Aachen Vampires
+DTSTART;TZID="UTC+02:00":20110528T170000
+DTEND;TZID="UTC+02:00":20110528T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Bielefeld Bulldogs
+DTSTART;TZID="UTC+02:00":20110613T170000
+DTEND;TZID="UTC+02:00":20110613T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Paderborn Dolphins
+DTSTART;TZID="UTC+02:00":20110619T170000
+DTEND;TZID="UTC+02:00":20110619T200000
+DESCRIPTION:Ergebnis: 6 : 48\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remscheid Amboss vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20110625T170000
+DTEND;TZID="UTC+02:00":20110625T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Reinshagen\, Remscheid\nhttps://www.google.de/maps/place/
+ Stadion%20Reinshagen%2C%20Remscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remscheid Amboss vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20110626T170000
+DTEND;TZID="UTC+02:00":20110626T200000
+DESCRIPTION:Ergebnis: 21 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Reinshagen\, Remscheid\nhttps://www.google.de/maps/place/
+ Stadion%20Reinshagen%2C%20Remscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Bonn Gamecocks
+DTSTART;TZID="UTC+02:00":20110703T170000
+DTEND;TZID="UTC+02:00":20110703T200000
+DESCRIPTION:Ergebnis: 0 : 33\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Bielefeld Bulldogs
+DTSTART;TZID="UTC+02:00":20110710T170000
+DTEND;TZID="UTC+02:00":20110710T200000
+DESCRIPTION:Ergebnis: 0 : 46\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dortmund Giants vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20110717T170000
+DTEND;TZID="UTC+02:00":20110717T200000
+DESCRIPTION:Ergebnis: 27 : 12\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Mendesportplatz\, Dortmund\nhttps://www.google.de/maps/place/Mend
+ esportplatz%2C%20Dortmund
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Aachen Vampires
+DTSTART;TZID="UTC+02:00":20110903T170000
+DTEND;TZID="UTC+02:00":20110903T200000
+DESCRIPTION:Ergebnis: 0 : 35\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aachen Vampires vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20110903T170000
+DTEND;TZID="UTC+02:00":20110903T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen-Burtscheid\nhttps://www.google.de/
+ maps/place/Ludwig-Kuhnen-Stadion%2C%20Aachen-Burtscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Dortmund Giants
+DTSTART;TZID="UTC+02:00":20110910T170000
+DTEND;TZID="UTC+02:00":20110910T200000
+DESCRIPTION:Ergebnis: 0 : 21\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bonn Gamecocks vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20110917T170000
+DTEND;TZID="UTC+02:00":20110917T200000
+DESCRIPTION:Ergebnis: 63 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Pennenfeld\, Bonn\nhttps://www.google.de/maps/place/Stadi
+ on%20Pennenfeld%2C%20Bonn
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Lippstadt Eagles
+DTSTART;TZID="UTC+02:00":20230422T150000
+DTEND;TZID="UTC+02:00":20230422T180000
+DESCRIPTION:Ergebnis: 12 : 42\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Rheine Raptors
+DTSTART;TZID="UTC+02:00":20230429T150000
+DTEND;TZID="UTC+02:00":20230429T180000
+DESCRIPTION:Ergebnis: 37 : 10\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Kachtenhausen White Hawks
+DTSTART;TZID="UTC+02:00":20230506T150000
+DTEND;TZID="UTC+02:00":20230506T180000
+DESCRIPTION:Ergebnis: 0 : 27\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siegen Sentinels vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20230520T150000
+DTEND;TZID="UTC+02:00":20230520T180000
+DESCRIPTION:Ergebnis: 7 : 3\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Hofbachstadion\, Siegen-Geisweid\nhttps://www.google.de/maps/plac
+ e/Hofbachstadion%2C%20Siegen-Geisweid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coesfeld Bulls vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20230618T153000
+DTEND;TZID="UTC+02:00":20230618T183000
+DESCRIPTION:Ergebnis: 0 : 20\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Weiling Arena\, Coesfeld\nhttps://www.google.de/maps/place/Weilin
+ g%20Arena%2C%20Coesfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lippstadt Eagles vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20230813T150000
+DTEND;TZID="UTC+02:00":20230813T180000
+DESCRIPTION:Ergebnis: 28 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion am Waldschlösschen\, Lippstadt\nhttps://www.google.de/ma
+ ps/place/Stadion%20am%20Waldschl%C3%B6sschen%2C%20Lippstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rheine Raptors vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20230820T150000
+DTEND;TZID="UTC+02:00":20230820T180000
+DESCRIPTION:Ergebnis: 19 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnstadion\, Rheine\nhttps://www.google.de/maps/place/Jahnstadio
+ n%2C%20Rheine
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Siegen Sentinels
+DTSTART;TZID="UTC+02:00":20230826T150000
+DTEND;TZID="UTC+02:00":20230826T180000
+DESCRIPTION:Ergebnis: 43 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kachtenhausen White Hawks vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20230903T150000
+DTEND;TZID="UTC+02:00":20230903T180000
+DESCRIPTION:Ergebnis: 37 : 6\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:TUS Kachtenhausen\, Lage\nhttps://www.google.de/maps/place/TUS%20
+ Kachtenhausen%2C%20Lage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Coesfeld Bulls
+DTSTART;TZID="UTC+02:00":20230923T150000
+DTEND;TZID="UTC+02:00":20230923T180000
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+END:VCALENDAR

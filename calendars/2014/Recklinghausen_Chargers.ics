@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20140426T170000
+DTEND;TZID="UTC+02:00":20140426T200000
+DESCRIPTION:Ergebnis: 22 : 6\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach Wolfpack vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20140510T170000
+DTEND;TZID="UTC+02:00":20140510T200000
+DESCRIPTION:Ergebnis: 33 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Grenzlandstadion\, Mönchengladbach\nhttps://www.google.de/maps/p
+ lace/Grenzlandstadion%2C%20M%C3%B6nchengladbach
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schiefbahn Riders vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20140531T170000
+DTEND;TZID="UTC+02:00":20140531T200000
+DESCRIPTION:Ergebnis: 20 : 6\nEintritt: 3€\nBratwurst: keine\nBier: kein
+ es\nStuhl: ja\nTrommeln: nein
+LOCATION:Jahnstadion Siedlerallee\, Willich-Schiefbahn\nhttps://www.google
+ .de/maps/place/Jahnstadion%20Siedlerallee%2C%20Willich-Schiefbahn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Köln Falcons II
+DTSTART;TZID="UTC+02:00":20140607T170000
+DTEND;TZID="UTC+02:00":20140607T200000
+DESCRIPTION:Ergebnis: 3 : 28\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Solingen Paladins
+DTSTART;TZID="UTC+02:00":20140621T170000
+DTEND;TZID="UTC+02:00":20140621T200000
+DESCRIPTION:Ergebnis: 12 : 32\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20140628T180000
+DTEND;TZID="UTC+02:00":20140628T210000
+DESCRIPTION:Ergebnis: 8 : 21\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Mönchengladbach Wolfpack
+DTSTART;TZID="UTC+02:00":20140705T170000
+DTEND;TZID="UTC+02:00":20140705T200000
+DESCRIPTION:Ergebnis: 3 : 14\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Schiefbahn Riders
+DTSTART;TZID="UTC+02:00":20140830T170000
+DTEND;TZID="UTC+02:00":20140830T200000
+DESCRIPTION:Ergebnis: 7 : 31\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln Falcons II vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20140906T170000
+DTEND;TZID="UTC+02:00":20140906T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solingen Paladins vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20140921T170000
+DTEND;TZID="UTC+02:00":20140921T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln Falcons II vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20141130T160000
+DTEND;TZID="UTC+02:00":20141130T190000
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solingen Paladins vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20141130T160000
+DTEND;TZID="UTC+02:00":20141130T190000
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+END:VCALENDAR

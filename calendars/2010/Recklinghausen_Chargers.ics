@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recklinghausen Chargers Calendar//
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Lübeck Cougars
+DTSTART;TZID="UTC+02:00":20100410T170000
+DTEND;TZID="UTC+02:00":20100410T200000
+DESCRIPTION:Ergebnis: 6 : 11\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cologne Falcons vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20100418T180000
+DTEND;TZID="UTC+02:00":20100418T210000
+DESCRIPTION:Ergebnis: 18 : 13\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Langenfeld Longhorns
+DTSTART;TZID="UTC+02:00":20100508T180000
+DTEND;TZID="UTC+02:00":20100508T210000
+DESCRIPTION:Ergebnis: 37 : 47\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Cologne Falcons
+DTSTART;TZID="UTC+02:00":20100516T170000
+DTEND;TZID="UTC+02:00":20100516T200000
+DESCRIPTION:Ergebnis: 14 : 14\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Düsseldorf Panther
+DTSTART;TZID="UTC+02:00":20100529T170000
+DTEND;TZID="UTC+02:00":20100529T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Bonn Gamecocks
+DTSTART;TZID="UTC+02:00":20100606T170000
+DTEND;TZID="UTC+02:00":20100606T200000
+DESCRIPTION:Ergebnis: 14 : 14\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Mönchengladbach Mavericks
+DTSTART;TZID="UTC+02:00":20100619T170000
+DTEND;TZID="UTC+02:00":20100619T200000
+DESCRIPTION:Ergebnis: 0 : 35\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach Mavericks vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20100626T190000
+DTEND;TZID="UTC+02:00":20100626T220000
+DESCRIPTION:Ergebnis: 70 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Hockeypark\, Mönchengladbach\nhttps://www.google.de/maps/place/H
+ ockeypark%2C%20M%C3%B6nchengladbach
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Magdeburg Virgin Guards
+DTSTART;TZID="UTC+02:00":20100704T170000
+DTEND;TZID="UTC+02:00":20100704T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Düsseldorf Panther
+DTSTART;TZID="UTC+02:00":20100717T180000
+DTEND;TZID="UTC+02:00":20100717T210000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Langenfeld Longhorns vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20100807T180000
+DTEND;TZID="UTC+02:00":20100807T210000
+DESCRIPTION:Ergebnis: 28 : 6\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnstadion\, Langenfeld\nhttps://www.google.de/maps/place/Jahnst
+ adion%2C%20Langenfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf Panther vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20100822T170000
+DTEND;TZID="UTC+02:00":20100822T200000
+DESCRIPTION:Ergebnis: 48 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:VfL Benrath\, Düsseldorf\nhttps://www.google.de/maps/place/VfL%2
+ 0Benrath%2C%20D%C3%BCsseldorf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bonn Gamecocks vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20100828T180000
+DTEND;TZID="UTC+02:00":20100828T210000
+DESCRIPTION:Ergebnis: 58 : 6\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Pennenfeld\, Bonn\nhttps://www.google.de/maps/place/Stadi
+ on%20Pennenfeld%2C%20Bonn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Magdeburg Virgin Guards
+DTSTART;TZID="UTC+02:00":20100911T180000
+DTEND;TZID="UTC+02:00":20100911T210000
+DESCRIPTION:Ergebnis: 8 : 28\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+END:VCALENDAR
