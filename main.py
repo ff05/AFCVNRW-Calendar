@@ -6,9 +6,10 @@ from requests import post
 from icalendar import Calendar, Event
 from requests.structures import CaseInsensitiveDict
 from urllib.parse import quote
-from os import makedirs, path
+from os import makedirs, path, listdir
 from pprint import pprint
 import config
+import re
 
 tz = timezone("Europe/Berlin")
 
@@ -94,6 +95,67 @@ def get_game(spiel, info):
   game['description'] = "\n".join(game['description'])
   return game
 
+def merge_teamcals(filename):
+  merged_cal = Calendar()
+  calstring = ""
+  for d in listdir('calendars'):
+    if (path.isdir(path.join('calendars', d))) and \
+      (path.exists(path.join('calendars', d , filename))):
+      f = open(path.join('calendars', d , filename), "r")
+      calstring = f.read()
+      f.close()
+      cal = Calendar()
+      cal = cal.from_ical(calstring)
+      for e in cal.walk('vevent'):
+        merged_cal.add_component(e)
+  f = open(f"calendars/{filename}", "wb")
+  f.write(merged_cal.to_ical())
+  f.close()
+
+def get_alltime_calendar(teamname):
+  namelist=[teamname]
+  ypattern = re.compile(".+U\d\d.*")
+  if not ypattern.match(teamname):
+    mpattern=re.compile("(.+ .+){2,}")
+    if mpattern.match(teamname):
+      namelist.append(teamname.split(" ")[1:])
+    else:
+      namelist.append(teamname.split(" ")[-1])      
+  league_id = 2
+  while league_id < 600:
+    print(f"procesing league_id: {league_id}")
+    soup=get_league_data(league_id)
+    inleague=False
+    for name in namelist:
+      if name in str(soup):
+        inleague=True
+        break
+    if not inleague:
+      league_id += 1
+      continue
+    spielplan = soup.findAll("div", {"class": "game_result spielplan"})
+    spielplaninfo = soup.findAll("div", {"class": "game_info spielplaninfo"})
+    ligaplan = []
+    teamplan = []
+    for spiel in spielplan:
+      info=spielplaninfo[spielplan.index(spiel)]
+      game = get_game(spiel,info)
+      ligaplan.append(game)
+      if game['hometeam'] in namelist or game['guestteam'] in namelist:
+        teamplan.append(game)
+    teamfilename = f"{teamname.replace('/','-').replace(' ','_').replace('Ä','Ae').replace('Ö','Oe').replace('Ü','Ue').replace('ä','ae').replace('ö','oe').replace('ü','ue').replace('ß','ss')}.ics"
+    if len(teamplan) > 1:
+      teamcal, year = createCalendar(teamplan, teamname)
+      if not path.exists(f"calendars/{year}"):
+        makedirs(f"calendars/{year}")
+      print(f'saving calendar {teamfilename}')
+      f = open(f"calendars/{year}/{teamfilename}", "wb")
+      f.write(teamcal.to_ical())
+      f.close()
+    league_id += 1
+  merge_teamcals(teamfilename)
+
+
 def main(league_id, leaguename):
   soup=get_league_data(league_id)
   spielplan = soup.findAll("div", {"class": "game_result spielplan"})
@@ -116,14 +178,15 @@ def main(league_id, leaguename):
       teamname = teamplan[0]['hometeam']
     else:
       teamname = teamplan[0]['guestteam']
-    teamfilename = teamname.replace('/','-').replace(' ','_').replace('Ä','Ae').replace('Ö','Oe').replace('Ü','Ue').replace('ä','ae').replace('ö','oe').replace('ü','ue').replace('ß','ss')
+    teamfilename = f"{teamname.replace('/','-').replace(' ','_').replace('Ä','Ae').replace('Ö','Oe').replace('Ü','Ue').replace('ä','ae').replace('ö','oe').replace('ü','ue').replace('ß','ss')}.ics"
     teamcal, year = createCalendar(teamplan, teamname)
     if not path.exists(f"calendars/{year}"):
       makedirs(f"calendars/{year}")
-    print(f'saving calendar {teamfilename}.ics')
-    f = open(f"calendars/{year}/{teamfilename}.ics", "wb")
+    print(f'saving calendar {teamfilename}')
+    f = open(f"calendars/{year}/{teamfilename}", "wb")
     f.write(teamcal.to_ical())
     f.close()
+  merge_teamcals(teamfilename)
   leaguecal, year = createCalendar(ligaplan, leaguename)
   pprint(stadiumdict)
   if not path.exists(f"calendars/{year}"):
@@ -137,4 +200,5 @@ if __name__ == "__main__":
   for league in config.LEAGUE_IDS:
     print(f'processing leage: {league["name"]}')
     main(league['id'], league['name'])
-
+  # for team in config.TEAMS:
+  #   get_alltime_calendar(team)

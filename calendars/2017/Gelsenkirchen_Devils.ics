@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gelsenkirchen Devils Calendar//
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Mönchengladbach Wolfpack
+DTSTART;TZID="UTC+02:00":20170430T170000
+DTEND;TZID="UTC+02:00":20170430T200000
+DESCRIPTION:Ergebnis: 27 : 13\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster Mammuts vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20170507T170000
+DTEND;TZID="UTC+02:00":20170507T200000
+DESCRIPTION:Ergebnis: 21 : 28\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Wangeroogeweg \, Münster\nhttps://www.google.de/maps/place/S
+ pA%20Wangeroogeweg%20%2C%20M%C3%BCnster
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Aachen Vampires
+DTSTART;TZID="UTC+02:00":20170527T170000
+DTEND;TZID="UTC+02:00":20170527T200000
+DESCRIPTION:Ergebnis: 36 : 14\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Duisburg Thunderbirds
+DTSTART;TZID="UTC+02:00":20170604T170000
+DTEND;TZID="UTC+02:00":20170604T200000
+DESCRIPTION:Ergebnis: 42 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster Blackhawks vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20170617T170000
+DTEND;TZID="UTC+02:00":20170617T200000
+DESCRIPTION:Ergebnis: 25 : 16\nEintritt: \nBratwurst: Gut\nBier: \nStuhl: 
+ ja\nTrommeln: Ja
+LOCATION:Sportpark Sentruper Höhe\, Münster\nhttps://www.google.de/maps/
+ place/Sportpark%20Sentruper%20H%C3%B6he%2C%20M%C3%BCnster
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach Wolfpack vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20170701T170000
+DTEND;TZID="UTC+02:00":20170701T200000
+DESCRIPTION:Ergebnis: 0 : 9\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:BSA Mülfort\, Mönchengladbach\nhttps://www.google.de/maps/place
+ /BSA%20M%C3%BClfort%2C%20M%C3%B6nchengladbach
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Münster Mammuts
+DTSTART;TZID="UTC+02:00":20170902T170000
+DTEND;TZID="UTC+02:00":20170902T200000
+DESCRIPTION:Ergebnis: 33 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aachen Vampires vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20170924T170000
+DTEND;TZID="UTC+02:00":20170924T200000
+DESCRIPTION:Ergebnis: 14 : 17\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen-Burtscheid\nhttps://www.google.de/
+ maps/place/Ludwig-Kuhnen-Stadion%2C%20Aachen-Burtscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duisburg Thunderbirds vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20170930T170000
+DTEND;TZID="UTC+02:00":20170930T200000
+DESCRIPTION:Ergebnis: 0 : 35\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Schwelgernstadion\, Duisburg\nhttps://www.google.de/maps/place/Sc
+ hwelgernstadion%2C%20Duisburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Münster Blackhawks
+DTSTART;TZID="UTC+02:00":20171015T170000
+DTEND;TZID="UTC+02:00":20171015T200000
+DESCRIPTION:Ergebnis: 26 : 10\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+END:VCALENDAR

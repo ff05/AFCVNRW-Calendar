@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gelsenkirchen Devils Calendar//
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Essen Assindia Cardinals
+DTSTART;TZID="UTC+02:00":20180421T180000
+DTEND;TZID="UTC+02:00":20180421T210000
+DESCRIPTION:Ergebnis: 0 : 34\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cologne Falcons vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20180428T170000
+DTEND;TZID="UTC+02:00":20180428T200000
+DESCRIPTION:Ergebnis: 9 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remscheid Amboss vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20180506T173000
+DTEND;TZID="UTC+02:00":20180506T203000
+DESCRIPTION:Ergebnis: 7 : 21\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Reinshagen\, Remscheid\nhttps://www.google.de/maps/place/
+ Stadion%20Reinshagen%2C%20Remscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Troisdorf Jets vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20180519T180000
+DTEND;TZID="UTC+02:00":20180519T210000
+DESCRIPTION:Ergebnis: 52 : 7\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Aggerstadion\, Troisdorf\nhttps://www.google.de/maps/place/Aggers
+ tadion%2C%20Troisdorf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bielefeld Bulldogs vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20180602T200000
+DTEND;TZID="UTC+02:00":20180602T230000
+DESCRIPTION:Ergebnis: 43 : 22\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Rußheide\, Bielefeld\nhttps://www.google.de/maps/place/SpA%2
+ 0Ru%C3%9Fheide%2C%20Bielefeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Bonn Gamecocks
+DTSTART;TZID="UTC+02:00":20180609T170000
+DTEND;TZID="UTC+02:00":20180609T200000
+DESCRIPTION:Ergebnis: 0 : 17\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essen Assindia Cardinals vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20180624T170000
+DTEND;TZID="UTC+02:00":20180624T200000
+DESCRIPTION:Ergebnis: 46 : 12\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportpark Am Hallo\, Essen\nhttps://www.google.de/maps/place/Spor
+ tpark%20Am%20Hallo%2C%20Essen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Cologne Falcons
+DTSTART;TZID="UTC+02:00":20180701T170000
+DTEND;TZID="UTC+02:00":20180701T200000
+DESCRIPTION:Ergebnis: 17 : 24\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Remscheid Amboss
+DTSTART;TZID="UTC+02:00":20180707T170000
+DTEND;TZID="UTC+02:00":20180707T200000
+DESCRIPTION:Ergebnis: 34 : 28\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Bielefeld Bulldogs
+DTSTART;TZID="UTC+02:00":20180715T170000
+DTEND;TZID="UTC+02:00":20180715T200000
+DESCRIPTION:Ergebnis: 14 : 34\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Troisdorf Jets
+DTSTART;TZID="UTC+02:00":20180818T170000
+DTEND;TZID="UTC+02:00":20180818T200000
+DESCRIPTION:Ergebnis: 17 : 41\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bonn Gamecocks vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20180901T180000
+DTEND;TZID="UTC+02:00":20180901T210000
+DESCRIPTION:Ergebnis: 26 : 14\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Pennenfeld\, Bonn\nhttps://www.google.de/maps/place/Stadi
+ on%20Pennenfeld%2C%20Bonn
+END:VEVENT
+END:VCALENDAR

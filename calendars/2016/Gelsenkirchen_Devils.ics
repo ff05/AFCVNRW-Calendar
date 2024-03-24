@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gelsenkirchen Devils Calendar//
+BEGIN:VEVENT
+SUMMARY:Dortmund Giants vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20160424T170000
+DTEND;TZID="UTC+02:00":20160424T200000
+DESCRIPTION:Ergebnis: 13 : 9\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Hoeschpark\, Dortmund\nhttps://www.google.de/maps/place/Hoeschpar
+ k%2C%20Dortmund
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Schiefbahn Riders
+DTSTART;TZID="UTC+02:00":20160430T170000
+DTEND;TZID="UTC+02:00":20160430T200000
+DESCRIPTION:Ergebnis: 37 : 25\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siegen Sentinels vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20160516T170000
+DTEND;TZID="UTC+02:00":20160516T200000
+DESCRIPTION:Ergebnis: 21 : 35\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Hofbachstadion\, Siegen-Geisweid\nhttps://www.google.de/maps/plac
+ e/Hofbachstadion%2C%20Siegen-Geisweid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Münster Mammuts
+DTSTART;TZID="UTC+02:00":20160604T170000
+DTEND;TZID="UTC+02:00":20160604T200000
+DESCRIPTION:Ergebnis: 20 : 13\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Dortmund Giants
+DTSTART;TZID="UTC+02:00":20160618T170000
+DTEND;TZID="UTC+02:00":20160618T200000
+DESCRIPTION:Ergebnis: 7 : 10\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schiefbahn Riders vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20160703T170000
+DTEND;TZID="UTC+02:00":20160703T200000
+DESCRIPTION:Ergebnis: 7 : 14\nEintritt: 3€\nBratwurst: keine\nBier: kein
+ es\nStuhl: ja\nTrommeln: nein
+LOCATION:Jahnstadion Siedlerallee\, Willich-Schiefbahn\nhttps://www.google
+ .de/maps/place/Jahnstadion%20Siedlerallee%2C%20Willich-Schiefbahn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Siegen Sentinels
+DTSTART;TZID="UTC+02:00":20160827T170000
+DTEND;TZID="UTC+02:00":20160827T200000
+DESCRIPTION:Ergebnis: 30 : 15\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Mönchengladbach Wolfpack
+DTSTART;TZID="UTC+02:00":20160903T170000
+DTEND;TZID="UTC+02:00":20160903T200000
+DESCRIPTION:Ergebnis: 37 : 20\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster Mammuts vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20160924T170000
+DTEND;TZID="UTC+02:00":20160924T200000
+DESCRIPTION:Ergebnis: 28 : 14\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Wangeroogeweg \, Münster\nhttps://www.google.de/maps/place/S
+ pA%20Wangeroogeweg%20%2C%20M%C3%BCnster
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mönchengladbach Wolfpack vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20161016T170000
+DTEND;TZID="UTC+02:00":20161016T200000
+DESCRIPTION:Ergebnis: 9 : 12\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:BSA Mülfort\, Mönchengladbach\nhttps://www.google.de/maps/place
+ /BSA%20M%C3%BClfort%2C%20M%C3%B6nchengladbach
+END:VEVENT
+END:VCALENDAR

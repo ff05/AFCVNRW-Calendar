@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gelsenkirchen Devils Calendar//
+BEGIN:VEVENT
+SUMMARY:Solingen Paladins vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20110501T170000
+DTEND;TZID="UTC+02:00":20110501T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solingen Paladins vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20110507T170000
+DTEND;TZID="UTC+02:00":20110507T200000
+DESCRIPTION:Ergebnis: 20 : 13\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Bochum Cadets
+DTSTART;TZID="UTC+02:00":20110514T170000
+DTEND;TZID="UTC+02:00":20110514T200000
+DESCRIPTION:Ergebnis: 0 : 28\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Bochum Cadets
+DTSTART;TZID="UTC+02:00":20110515T170000
+DTEND;TZID="UTC+02:00":20110515T200000
+DESCRIPTION:Ergebnis: 0 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cologne Crocodiles vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20110529T163000
+DTEND;TZID="UTC+02:00":20110529T193000
+DESCRIPTION:Ergebnis: 14 : 27\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:BSA Bocklemünd\, Köln\nhttps://www.google.de/maps/place/BSA%20B
+ ocklem%C3%BCnd%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf Bulldozer vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20110612T170000
+DTEND;TZID="UTC+02:00":20110612T200000
+DESCRIPTION:Ergebnis: 21 : 13\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Heinrich Heine Universität\, Düsseldorf\nhttps://www.google.de/
+ maps/place/Heinrich%20Heine%20Universit%C3%A4t%2C%20D%C3%BCsseldorf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Cologne Falcons II
+DTSTART;TZID="UTC+02:00":20110618T170000
+DTEND;TZID="UTC+02:00":20110618T200000
+DESCRIPTION:Ergebnis: 28 : 6\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Solingen Paladins
+DTSTART;TZID="UTC+02:00":20110702T183000
+DTEND;TZID="UTC+02:00":20110702T213000
+DESCRIPTION:Ergebnis: 14 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bochum Cadets vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20110716T170000
+DTEND;TZID="UTC+02:00":20110716T200000
+DESCRIPTION:Ergebnis: 20 : 15\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
+ Schultenhof%2C%20Bochum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Cologne Crocodiles
+DTSTART;TZID="UTC+02:00":20110910T170000
+DTEND;TZID="UTC+02:00":20110910T200000
+DESCRIPTION:Ergebnis: 20 : 14\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Düsseldorf Bulldozer
+DTSTART;TZID="UTC+02:00":20110917T170000
+DTEND;TZID="UTC+02:00":20110917T200000
+DESCRIPTION:Ergebnis: 34 : 18\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cologne Falcons II vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20111001T170000
+DTEND;TZID="UTC+02:00":20111001T200000
+DESCRIPTION:Ergebnis: 22 : 28\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+END:VCALENDAR

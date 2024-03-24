@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gelsenkirchen Devils Calendar//
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Leverkusen Tornados
+DTSTART;TZID="UTC+02:00":20120428T170000
+DTEND;TZID="UTC+02:00":20120428T200000
+DESCRIPTION:Ergebnis: 20 : 12\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Köln Falcons II vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20120506T190000
+DTEND;TZID="UTC+02:00":20120506T220000
+DESCRIPTION:Ergebnis: 7 : 12\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Cologne Crocodiles
+DTSTART;TZID="UTC+02:00":20120520T170000
+DTEND;TZID="UTC+02:00":20120520T200000
+DESCRIPTION:Ergebnis: 3 : 34\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20120603T170000
+DTEND;TZID="UTC+02:00":20120603T200000
+DESCRIPTION:Ergebnis: 0 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solingen Paladins vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20120617T170000
+DTEND;TZID="UTC+02:00":20120617T200000
+DESCRIPTION:Ergebnis: 20 : 12\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen Tornados vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20120630T190000
+DTEND;TZID="UTC+02:00":20120630T220000
+DESCRIPTION:Ergebnis: 14 : 10\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA am Kurtekotten (RTHC Hockeyanlage)\, Leverkusen\nhttps://www.
+ google.de/maps/place/SpA%20am%20Kurtekotten%20%28RTHC%20Hockeyanlage%29%2C
+ %20Leverkusen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leverkusen Tornados vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20120701T170000
+DTEND;TZID="UTC+02:00":20120701T200000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA am Kurtekotten (RTHC Hockeyanlage)\, Leverkusen\nhttps://www.
+ google.de/maps/place/SpA%20am%20Kurtekotten%20%28RTHC%20Hockeyanlage%29%2C
+ %20Leverkusen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Köln Falcons II
+DTSTART;TZID="UTC+02:00":20120707T170000
+DTEND;TZID="UTC+02:00":20120707T200000
+DESCRIPTION:Ergebnis: 23 : 10\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cologne Crocodiles vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20120909T163000
+DTEND;TZID="UTC+02:00":20120909T193000
+DESCRIPTION:Ergebnis: 17 : 6\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:BSA Bocklemünd\, Köln\nhttps://www.google.de/maps/place/BSA%20B
+ ocklem%C3%BCnd%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recklinghausen Chargers vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20120929T170000
+DTEND;TZID="UTC+02:00":20120929T200000
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
+ lace/Stadion%20Hohenhorst%2C%20Recklinghausen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Solingen Paladins
+DTSTART;TZID="UTC+02:00":20121006T170000
+DTEND;TZID="UTC+02:00":20121006T200000
+DESCRIPTION:Ergebnis: 0 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20121020T170000
+DTEND;TZID="UTC+02:00":20121020T200000
+DESCRIPTION:Ergebnis: 27 : 7\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Recklinghausen Chargers
+DTSTART;TZID="UTC+02:00":20121130T160000
+DTEND;TZID="UTC+02:00":20121130T190000
+DESCRIPTION:Ergebnis: 0 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gelsenkirchen Devils Calendar//
+BEGIN:VEVENT
+SUMMARY:Solingen Paladins vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20100502T170000
+DTEND;TZID="UTC+02:00":20100502T200000
+DESCRIPTION:Ergebnis: 21 : 12\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Jahnkampfbahn/Walder Stadion\, Solingen\nhttps://www.google.de/ma
+ ps/place/Jahnkampfbahn/Walder%20Stadion%2C%20Solingen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cologne Falcons II vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20100508T130000
+DTEND;TZID="UTC+02:00":20100508T160000
+DESCRIPTION:Ergebnis: 0 : 18\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Düsseldorf Bulldozer vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20100529T200000
+DTEND;TZID="UTC+02:00":20100529T230000
+DESCRIPTION:Ergebnis: 14 : 20\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportpark Niederheid\, Düsseldorf\nhttps://www.google.de/maps/pl
+ ace/Sportpark%20Niederheid%2C%20D%C3%BCsseldorf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Münster Mammuts
+DTSTART;TZID="UTC+02:00":20100619T180000
+DTEND;TZID="UTC+02:00":20100619T210000
+DESCRIPTION:Ergebnis: 22 : 34\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aachen Vampires vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20100626T183000
+DTEND;TZID="UTC+02:00":20100626T213000
+DESCRIPTION:Ergebnis: 37 : 14\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen-Burtscheid\nhttps://www.google.de/
+ maps/place/Ludwig-Kuhnen-Stadion%2C%20Aachen-Burtscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Cologne Falcons II
+DTSTART;TZID="UTC+02:00":20100710T170000
+DTEND;TZID="UTC+02:00":20100710T200000
+DESCRIPTION:Ergebnis: 22 : 20\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Solingen Paladins
+DTSTART;TZID="UTC+02:00":20100925T170000
+DTEND;TZID="UTC+02:00":20100925T200000
+DESCRIPTION:Ergebnis: 0 : 12\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Münster Mammuts vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20101002T180000
+DTEND;TZID="UTC+02:00":20101002T210000
+DESCRIPTION:Ergebnis: 3 : 45\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Kinderhaus Große Wiese\, Münster\nhttps://www.google.de/maps/pl
+ ace/Kinderhaus%20Gro%C3%9Fe%20Wiese%2C%20M%C3%BCnster
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Aachen Vampires
+DTSTART;TZID="UTC+02:00":20101009T170000
+DTEND;TZID="UTC+02:00":20101009T200000
+DESCRIPTION:Ergebnis: 8 : 20\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Düsseldorf Bulldozer
+DTSTART;TZID="UTC+02:00":20101016T170000
+DTEND;TZID="UTC+02:00":20101016T200000
+DESCRIPTION:Ergebnis: 40 : 30\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+END:VCALENDAR

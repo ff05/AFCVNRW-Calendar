@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gelsenkirchen Devils Calendar//
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Bonn Gamecocks
+DTSTART;TZID="UTC+02:00":20190427T170000
+DTEND;TZID="UTC+02:00":20190427T200000
+DESCRIPTION:Ergebnis: 33 : 24\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Essen Assindia Cardinals
+DTSTART;TZID="UTC+02:00":20190504T170000
+DTEND;TZID="UTC+02:00":20190504T200000
+DESCRIPTION:Ergebnis: 0 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Essen Assindia Cardinals
+DTSTART;TZID="UTC+02:00":20190505T170000
+DTEND;TZID="UTC+02:00":20190505T200000
+DESCRIPTION:Ergebnis: 0 : 9\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Bielefeld Bulldogs
+DTSTART;TZID="UTC+02:00":20190511T170000
+DTEND;TZID="UTC+02:00":20190511T200000
+DESCRIPTION:Ergebnis: 0 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Bielefeld Bulldogs
+DTSTART;TZID="UTC+02:00":20190512T170000
+DTEND;TZID="UTC+02:00":20190512T200000
+DESCRIPTION:Ergebnis: 0 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
+ der\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paderborn Dolphins vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20190519T170000
+DTEND;TZID="UTC+02:00":20190519T200000
+DESCRIPTION:Ergebnis: 20 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Hermann-Löns-Stadion\, Paderborn\nhttps://www.google.de/maps/pla
+ ce/Hermann-L%C3%B6ns-Stadion%2C%20Paderborn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Cologne Falcons
+DTSTART;TZID="UTC+02:00":20190525T170000
+DTEND;TZID="UTC+02:00":20190525T200000
+DESCRIPTION:Ergebnis: 9 : 28\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bielefeld Bulldogs vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20190622T200000
+DTEND;TZID="UTC+02:00":20190622T230000
+DESCRIPTION:Ergebnis: 49 : 40\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Rußheide\, Bielefeld\nhttps://www.google.de/maps/place/SpA%2
+ 0Ru%C3%9Fheide%2C%20Bielefeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essen Assindia Cardinals vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20190629T180000
+DTEND;TZID="UTC+02:00":20190629T210000
+DESCRIPTION:Ergebnis: 65 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Sportpark Am Hallo\, Essen\nhttps://www.google.de/maps/place/Spor
+ tpark%20Am%20Hallo%2C%20Essen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Aachen Vampires
+DTSTART;TZID="UTC+02:00":20190706T170000
+DTEND;TZID="UTC+02:00":20190706T200000
+DESCRIPTION:Ergebnis: 17 : 13\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Paderborn Dolphins
+DTSTART;TZID="UTC+02:00":20190714T170000
+DTEND;TZID="UTC+02:00":20190714T200000
+DESCRIPTION:Ergebnis: 20 : 30\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bonn Gamecocks vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20190831T170000
+DTEND;TZID="UTC+02:00":20190831T200000
+DESCRIPTION:Ergebnis: 0 : 9\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Pennenfeld\, Bonn\nhttps://www.google.de/maps/place/Stadi
+ on%20Pennenfeld%2C%20Bonn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aachen Vampires vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20190908T170000
+DTEND;TZID="UTC+02:00":20190908T200000
+DESCRIPTION:Ergebnis: 13 : 32\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen-Burtscheid\nhttps://www.google.de/
+ maps/place/Ludwig-Kuhnen-Stadion%2C%20Aachen-Burtscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gelsenkirchen Devils vs Bielefeld Bulldogs
+DTSTART;TZID="UTC+02:00":20190914T170000
+DTEND;TZID="UTC+02:00":20190914T200000
+DESCRIPTION:Ergebnis: 23 : 20\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
+LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
+ lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cologne Falcons vs Gelsenkirchen Devils
+DTSTART;TZID="UTC+02:00":20190928T170000
+DTEND;TZID="UTC+02:00":20190928T200000
+DESCRIPTION:Ergebnis: 17 : 16\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+END:VCALENDAR

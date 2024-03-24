@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Wesseling Blackvenom
 DTSTART;TZID="UTC+02:00":20230422T150000
 DTEND;TZID="UTC+02:00":20230422T180000
-DESCRIPTION:Ergebnis: 14 : 20\nEintritt: "umsonst"\nBratwurst: Gut\nBier: 
- Stauder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: 14 : 20\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Schiefbahn Riders
 DTSTART;TZID="UTC+02:00":20230513T150000
 DTEND;TZID="UTC+02:00":20230513T180000
-DESCRIPTION:Ergebnis: 14 : 17\nEintritt: "umsonst"\nBratwurst: Gut\nBier: 
- Stauder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: 14 : 17\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Mülheim Shamrocks
 DTSTART;TZID="UTC+02:00":20230610T150000
 DTEND;TZID="UTC+02:00":20230610T180000
-DESCRIPTION:Ergebnis: 36 : 29\nEintritt: "umsonst"\nBratwurst: Gut\nBier: 
- Stauder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: 36 : 29\nEintritt: umsonst\nBratwurst: Gut\nBier: St
+ auder\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Kevelaer Kings
 DTSTART;TZID="UTC+02:00":20230819T150000
 DTEND;TZID="UTC+02:00":20230819T180000
-DESCRIPTION:Ergebnis: 9 : 26\nEintritt: "umsonst"\nBratwurst: Gut\nBier: S
- tauder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: 9 : 26\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT
@@ -77,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Herne Black Barons
 DTSTART;TZID="UTC+02:00":20230909T150000
 DTEND;TZID="UTC+02:00":20230909T180000
-DESCRIPTION:Ergebnis: 36 : 0\nEintritt: "umsonst"\nBratwurst: Gut\nBier: S
- tauder\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: 36 : 0\nEintritt: umsonst\nBratwurst: Gut\nBier: Sta
+ uder\nStuhl: nein\nTrommeln: ja
 LOCATION:Fürstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps/p
  lace/F%C3%BCrstenbergstadion%2C%20Gelsenkirchen
 END:VEVENT

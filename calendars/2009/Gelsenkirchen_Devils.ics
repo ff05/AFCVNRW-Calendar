@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gelsenkirchen Devils Calendar//
+BEGIN:VEVENT
+SUMMARY:Devils vs Amboss
+DTSTART;TZID="UTC+02:00":20090418T170000
+DTEND;TZID="UTC+02:00":20090418T200000
+DESCRIPTION:Ergebnis: 6 : 22\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mammuts vs Devils
+DTSTART;TZID="UTC+02:00":20090502T180000
+DTEND;TZID="UTC+02:00":20090502T210000
+DESCRIPTION:Ergebnis: 35 : 20\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Kinderhaus Große Wiese\, Münster\nhttps://www.google.de/maps/pl
+ ace/Kinderhaus%20Gro%C3%9Fe%20Wiese%2C%20M%C3%BCnster
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devils vs Giants
+DTSTART;TZID="UTC+02:00":20090523T170000
+DTEND;TZID="UTC+02:00":20090523T200000
+DESCRIPTION:Ergebnis: 16 : 63\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampires vs Devils
+DTSTART;TZID="UTC+02:00":20090531T180000
+DTEND;TZID="UTC+02:00":20090531T210000
+DESCRIPTION:Ergebnis: 31 : 12\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:Ludwig-Kuhnen-Stadion\, Aachen-Burtscheid\nhttps://www.google.de/
+ maps/place/Ludwig-Kuhnen-Stadion%2C%20Aachen-Burtscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devils vs Falcons II
+DTSTART;TZID="UTC+02:00":20090620T170000
+DTEND;TZID="UTC+02:00":20090620T200000
+DESCRIPTION:Ergebnis: 22 : 26\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amboss vs Devils
+DTSTART;TZID="UTC+02:00":20090823T180000
+DTEND;TZID="UTC+02:00":20090823T210000
+DESCRIPTION:Ergebnis: 36 : 6\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Stadion Reinshagen\, Remscheid\nhttps://www.google.de/maps/place/
+ Stadion%20Reinshagen%2C%20Remscheid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devils vs Mammuts
+DTSTART;TZID="UTC+02:00":20090829T170000
+DTEND;TZID="UTC+02:00":20090829T200000
+DESCRIPTION:Ergebnis: 28 : 15\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giants vs Devils
+DTSTART;TZID="UTC+02:00":20090912T170000
+DTEND;TZID="UTC+02:00":20090912T200000
+DESCRIPTION:Ergebnis: 41 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier
+ : \nStuhl: ja\nTrommeln: ja
+LOCATION:Mendesportplatz\, Dortmund\nhttps://www.google.de/maps/place/Mend
+ esportplatz%2C%20Dortmund
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devils vs Vampires
+DTSTART;TZID="UTC+02:00":20090926T170000
+DTEND;TZID="UTC+02:00":20090926T200000
+DESCRIPTION:Ergebnis: 12 : 24\nInfo: default\nEintritt: \nBratwurst: \nBie
+ r: \nStuhl: ja\nTrommeln: ja
+LOCATION:SpA Braukämper Str.\, Gelsenkirchen\nhttps://www.google.de/maps/
+ place/SpA%20Brauk%C3%A4mper%20Str.%2C%20Gelsenkirchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falcons II vs Devils
+DTSTART;TZID="UTC+02:00":20091010T190000
+DTEND;TZID="UTC+02:00":20091010T220000
+DESCRIPTION:Ergebnis: 0 : 0\nInfo: default\nEintritt: \nBratwurst: \nBier:
+  \nStuhl: ja\nTrommeln: ja
+LOCATION:Ostkampfbahn\, Köln\nhttps://www.google.de/maps/place/Ostkampfba
+ hn%2C%20K%C3%B6ln
+END:VEVENT
+END:VCALENDAR
