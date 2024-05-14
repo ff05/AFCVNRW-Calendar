@@ -3,8 +3,8 @@ BEGIN:VEVENT
 SUMMARY:SG Dorsten Reapers / Coesfeld Bulls U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230518T150000
 DTEND;TZID="UTC+02:00":20230518T180000
-DESCRIPTION:Ergebnis: 32 : 30\nInfo: default\nEintritt: \nBratwurst: \nBie
- r: \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 32 : 30\nBier: \nBratwurst: \nEintritt: \nInfo: defa
+ ult\nStuhl: ja\nTrommeln: ja
 LOCATION:SuS Hervest Dorsten\, Dorsten\nhttps://www.google.de/maps/place/S
  uS%20Hervest%20Dorsten\,%20Dorsten
 END:VEVENT
@@ -12,8 +12,8 @@ BEGIN:VEVENT
 SUMMARY:MÃ¶nchengladbach Wolfpack U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230518T150000
 DTEND;TZID="UTC+02:00":20230518T180000
-DESCRIPTION:Ergebnis: 26 : 34\nInfo: default\nEintritt: \nBratwurst: \nBie
- r: \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 26 : 34\nBier: \nBratwurst: \nEintritt: \nInfo: defa
+ ult\nStuhl: ja\nTrommeln: ja
 LOCATION:SuS Hervest Dorsten\, Dorsten\nhttps://www.google.de/maps/place/S
  uS%20Hervest%20Dorsten\,%20Dorsten
 END:VEVENT
@@ -21,8 +21,8 @@ BEGIN:VEVENT
 SUMMARY:SG Dorsten Reapers / Coesfeld Bulls U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230617T110000
 DTEND;TZID="UTC+02:00":20230617T140000
-DESCRIPTION:Ergebnis: 34 : 36\nInfo: default\nEintritt: \nBratwurst: \nBie
- r: \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 34 : 36\nBier: \nBratwurst: Schlecht\nEintritt: \nSt
+ uhl: ja\nTrommeln: ja
 LOCATION:HÃ¼lsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H
  %C3%BClsparkstadion\,%20Kevelaer
 END:VEVENT
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230617T110000
 DTEND;TZID="UTC+02:00":20230617T140000
-DESCRIPTION:Ergebnis: 25 : 18\nEintritt: \nBratwurst: Schlecht\nBier: \nSt
+DESCRIPTION:Ergebnis: 25 : 18\nBier: \nBratwurst: Schlecht\nEintritt: \nSt
  uhl: ja\nTrommeln: ja
 LOCATION:HÃ¼lsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H
  %C3%BClsparkstadion\,%20Kevelaer
@@ -39,8 +39,8 @@ BEGIN:VEVENT
 SUMMARY:MÃ¶nchengladbach Wolfpack U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230903T110000
 DTEND;TZID="UTC+02:00":20230903T140000
-DESCRIPTION:Ergebnis: 25 : 46\nInfo: default\nEintritt: \nBratwurst: \nBie
- r: \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 25 : 46\nBier: \nBratwurst: \nEintritt: \nInfo: defa
+ ult\nStuhl: ja\nTrommeln: ja
 LOCATION:BSA Odenkirchen SÃ¼d\, MÃ¶nchengladbach\nhttps://www.google.d
  e/maps/place/BSA%20Odenkirchen%20S%C3%BCd\,%20M%C3%B6nchengladbach
 END:VEVENT
@@ -48,8 +48,8 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230903T110000
 DTEND;TZID="UTC+02:00":20230903T140000
-DESCRIPTION:Ergebnis: 28 : 26\nEintritt: \nBratwurst: Schlecht\nBier: \nSt
- uhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 28 : 26\nBier: \nBratwurst: \nEintritt: \nInfo: defa
+ ult\nStuhl: ja\nTrommeln: ja
 LOCATION:BSA Odenkirchen SÃ¼d\, MÃ¶nchengladbach\nhttps://www.google.d
  e/maps/place/BSA%20Odenkirchen%20S%C3%BCd\,%20M%C3%B6nchengladbach
 END:VEVENT
@@ -57,8 +57,8 @@ BEGIN:VEVENT
 SUMMARY:SG Chargers/Devils U16 vs SG Witterschlick/Windeck U16
 DTSTART;TZID="UTC+02:00":20240420T110000
 DTEND;TZID="UTC+02:00":20240420T140000
-DESCRIPTION:Ergebnis: - : -\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
- der\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: 2 : 46\nBier: Stauder\nBratwurst: Gut\nEintritt: ums
+ onst\nStuhl: nein\nTrommeln: ja
 LOCATION:FÃ¼rstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps
  /place/F%C3%BCrstenbergstadion\,%20Gelsenkirchen
 END:VEVENT
@@ -66,8 +66,8 @@ BEGIN:VEVENT
 SUMMARY:Langenfeld Longhorns U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20240512T110000
 DTEND;TZID="UTC+02:00":20240512T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 63 : 6\nBier: \nBratwurst: \nEintritt: \nInfo: defau
+ lt\nStuhl: ja\nTrommeln: ja
 LOCATION:Jahnstadion\, Langenfeld\nhttps://www.google.de/maps/place/Jahnst
  adion\,%20Langenfeld
 END:VEVENT
@@ -75,35 +75,35 @@ BEGIN:VEVENT
 SUMMARY:SG Chargers/Devils U16 vs SG Bonn/Aachen U16
 DTSTART;TZID="UTC+02:00":20240518T110000
 DTEND;TZID="UTC+02:00":20240518T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst\,%20Recklinghausen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SG Wesseling/Siegen U16 vs SG Chargers/Devils U16
-DTSTART;TZID="UTC+02:00":20240602T110000
-DTEND;TZID="UTC+02:00":20240602T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DTSTART;TZID="UTC+02:00":20240623T110000
+DTEND;TZID="UTC+02:00":20240623T140000
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: Hotdog\nEintritt: umsonst\
+ nStuhl: ja\nTrommeln: ja
 LOCATION:Kreuz Knippchen\, Wesseling\nhttps://www.google.de/maps/place/Kre
  uz%20Knippchen\,%20Wesseling
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SG Witterschlick/Windeck U16 vs SG Chargers/Devils U16
-DTSTART;TZID="UTC+02:00":20240623T110000
-DTEND;TZID="UTC+02:00":20240623T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DTSTART;TZID="UTC+02:00":20240629T150000
+DTEND;TZID="UTC+02:00":20240629T180000
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Stadion im Tonrevier\, Alfter\nhttps://www.google.de/maps/place/S
  tadion%20im%20Tonrevier\,%20Alfter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SG Chargers/Devils U16 vs Langenfeld Longhorns U16
-DTSTART;TZID="UTC+02:00":20240825T110000
-DTEND;TZID="UTC+02:00":20240825T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DTSTART;TZID="UTC+02:00":20240824T110000
+DTEND;TZID="UTC+02:00":20240824T140000
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst\,%20Recklinghausen
 END:VEVENT
@@ -111,18 +111,18 @@ BEGIN:VEVENT
 SUMMARY:SG Bonn/Aachen U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20240831T110000
 DTEND;TZID="UTC+02:00":20240831T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Stadion Pennenfeld\, Bonn\nhttps://www.google.de/maps/place/Stadi
  on%20Pennenfeld\,%20Bonn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SG Chargers/Devils U16 vs SG Wesseling/Siegen U16
-DTSTART;TZID="UTC+02:00":20241005T110000
-DTEND;TZID="UTC+02:00":20241005T140000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
-LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
- lace/Stadion%20Hohenhorst\,%20Recklinghausen
+DTSTART;TZID="UTC+02:00":20240928T110000
+DTEND;TZID="UTC+02:00":20240928T140000
+DESCRIPTION:Ergebnis: - : -\nBier: Stauder\nBratwurst: Gut\nEintritt: umso
+ nst\nStuhl: nein\nTrommeln: ja
+LOCATION:FÃ¼rstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps
+ /place/F%C3%BCrstenbergstadion\,%20Gelsenkirchen
 END:VEVENT
 END:VCALENDAR

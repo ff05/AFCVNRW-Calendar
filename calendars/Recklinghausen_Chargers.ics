@@ -1417,8 +1417,8 @@ BEGIN:VEVENT
 SUMMARY:Siegen Sentinels vs Recklinghausen Chargers
 DTSTART;TZID="UTC+02:00":20240427T150000
 DTEND;TZID="UTC+02:00":20240427T180000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 22 : 0\nBier: \nBratwurst: \nEintritt: \nInfo: defau
+ lt\nStuhl: ja\nTrommeln: ja
 LOCATION:Hofbachstadion\, Siegen-Geisweid\nhttps://www.google.de/maps/plac
  e/Hofbachstadion\,%20Siegen-Geisweid
 END:VEVENT
@@ -1426,8 +1426,8 @@ BEGIN:VEVENT
 SUMMARY:Recklinghausen Chargers vs Bochum Rebels
 DTSTART;TZID="UTC+02:00":20240518T150000
 DTEND;TZID="UTC+02:00":20240518T180000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst\,%20Recklinghausen
 END:VEVENT
@@ -1435,8 +1435,8 @@ BEGIN:VEVENT
 SUMMARY:Rheine Raptors vs Recklinghausen Chargers
 DTSTART;TZID="UTC+02:00":20240526T150000
 DTEND;TZID="UTC+02:00":20240526T180000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Jahnstadion\, Rheine\nhttps://www.google.de/maps/place/Jahnstadio
  n\,%20Rheine
 END:VEVENT
@@ -1444,8 +1444,8 @@ BEGIN:VEVENT
 SUMMARY:Recklinghausen Chargers vs Gelsenkirchen Devils
 DTSTART;TZID="UTC+02:00":20240608T150000
 DTEND;TZID="UTC+02:00":20240608T180000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst\,%20Recklinghausen
 END:VEVENT
@@ -1453,8 +1453,8 @@ BEGIN:VEVENT
 SUMMARY:Lippstadt Eagles vs Recklinghausen Chargers
 DTSTART;TZID="UTC+02:00":20240623T150000
 DTEND;TZID="UTC+02:00":20240623T180000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Stadion am WaldschlÃ¶sschen\, Lippstadt\nhttps://www.google.de/
  maps/place/Stadion%20am%20Waldschl%C3%B6sschen\,%20Lippstadt
 END:VEVENT
@@ -1462,8 +1462,8 @@ BEGIN:VEVENT
 SUMMARY:Recklinghausen Chargers vs Siegen Sentinels
 DTSTART;TZID="UTC+02:00":20240824T150000
 DTEND;TZID="UTC+02:00":20240824T180000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst\,%20Recklinghausen
 END:VEVENT
@@ -1471,8 +1471,8 @@ BEGIN:VEVENT
 SUMMARY:Bochum Rebels vs Recklinghausen Chargers
 DTSTART;TZID="UTC+02:00":20240907T170000
 DTEND;TZID="UTC+02:00":20240907T200000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:SpA Schultenhof\, Bochum\nhttps://www.google.de/maps/place/SpA%20
  Schultenhof\,%20Bochum
 END:VEVENT
@@ -1480,8 +1480,8 @@ BEGIN:VEVENT
 SUMMARY:Recklinghausen Chargers vs Rheine Raptors
 DTSTART;TZID="UTC+02:00":20240914T150000
 DTEND;TZID="UTC+02:00":20240914T180000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst\,%20Recklinghausen
 END:VEVENT
@@ -1489,8 +1489,8 @@ BEGIN:VEVENT
 SUMMARY:Gelsenkirchen Devils vs Recklinghausen Chargers
 DTSTART;TZID="UTC+02:00":20240928T150000
 DTEND;TZID="UTC+02:00":20240928T180000
-DESCRIPTION:Ergebnis: - : -\nEintritt: umsonst\nBratwurst: Gut\nBier: Stau
- der\nStuhl: nein\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: Stauder\nBratwurst: Gut\nEintritt: umso
+ nst\nStuhl: nein\nTrommeln: ja
 LOCATION:FÃ¼rstenbergstadion\, Gelsenkirchen\nhttps://www.google.de/maps
  /place/F%C3%BCrstenbergstadion\,%20Gelsenkirchen
 END:VEVENT
@@ -1498,8 +1498,8 @@ BEGIN:VEVENT
 SUMMARY:Recklinghausen Chargers vs Lippstadt Eagles
 DTSTART;TZID="UTC+02:00":20241005T150000
 DTEND;TZID="UTC+02:00":20241005T180000
-DESCRIPTION:Ergebnis: - : -\nInfo: default\nEintritt: \nBratwurst: \nBier:
-  \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: - : -\nBier: \nBratwurst: \nEintritt: \nInfo: defaul
+ t\nStuhl: ja\nTrommeln: ja
 LOCATION:Stadion Hohenhorst\, Recklinghausen\nhttps://www.google.de/maps/p
  lace/Stadion%20Hohenhorst\,%20Recklinghausen
 END:VEVENT

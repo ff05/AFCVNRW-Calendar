@@ -223,6 +223,6 @@ if __name__ == "__main__":
       main(league['id'], league['name'], team)
     teamfilename = f"{team.replace('/','-').replace(' ','_').replace('Ä','Ae').replace('Ö','Oe').replace('Ü','Ue').replace('ä','ae').replace('ö','oe').replace('ü','ue').replace('ß','ss')}.ics"
     merge_teamcals(teamfilename)
-  get_alltime_calendars(config.TEAMS)
-  with open("new_comments", "w", encoding='utf8') as new_comments:
-    new_comments.write(json_dumps(configdict, indent=4, ensure_ascii=False, sort_keys=True))
+  # get_alltime_calendars(config.TEAMS)
+  # with open("new_comments", "w", encoding='utf8') as new_comments:
+  #   new_comments.write(json_dumps(configdict, indent=4, ensure_ascii=False, sort_keys=True))

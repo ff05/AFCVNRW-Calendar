@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:SG Dorsten Reapers / Coesfeld Bulls U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230518T150000
 DTEND;TZID="UTC+02:00":20230518T180000
-DESCRIPTION:Ergebnis: 32 : 30\nInfo: default\nEintritt: \nBratwurst: \nBie
- r: \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 32 : 30\nBier: \nBratwurst: \nEintritt: \nInfo: defa
+ ult\nStuhl: ja\nTrommeln: ja
 LOCATION:SuS Hervest Dorsten\, Dorsten\nhttps://www.google.de/maps/place/S
  uS%20Hervest%20Dorsten%2C%20Dorsten
 END:VEVENT
@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:Mönchengladbach Wolfpack U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230518T150000
 DTEND;TZID="UTC+02:00":20230518T180000
-DESCRIPTION:Ergebnis: 26 : 34\nInfo: default\nEintritt: \nBratwurst: \nBie
- r: \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 26 : 34\nBier: \nBratwurst: \nEintritt: \nInfo: defa
+ ult\nStuhl: ja\nTrommeln: ja
 LOCATION:SuS Hervest Dorsten\, Dorsten\nhttps://www.google.de/maps/place/S
  uS%20Hervest%20Dorsten%2C%20Dorsten
 END:VEVENT
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:SG Dorsten Reapers / Coesfeld Bulls U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230617T110000
 DTEND;TZID="UTC+02:00":20230617T140000
-DESCRIPTION:Ergebnis: 34 : 36\nEintritt: \nBratwurst: Schlecht\nBier: \nSt
+DESCRIPTION:Ergebnis: 34 : 36\nBier: \nBratwurst: Schlecht\nEintritt: \nSt
  uhl: ja\nTrommeln: ja
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230617T110000
 DTEND;TZID="UTC+02:00":20230617T140000
-DESCRIPTION:Ergebnis: 25 : 18\nEintritt: \nBratwurst: Schlecht\nBier: \nSt
+DESCRIPTION:Ergebnis: 25 : 18\nBier: \nBratwurst: Schlecht\nEintritt: \nSt
  uhl: ja\nTrommeln: ja
 LOCATION:Hülsparkstadion\, Kevelaer\nhttps://www.google.de/maps/place/H%C
  3%BClsparkstadion%2C%20Kevelaer
@@ -41,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:Mönchengladbach Wolfpack U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230903T110000
 DTEND;TZID="UTC+02:00":20230903T140000
-DESCRIPTION:Ergebnis: 25 : 46\nInfo: default\nEintritt: \nBratwurst: \nBie
- r: \nStuhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 25 : 46\nBier: \nBratwurst: \nEintritt: \nInfo: defa
+ ult\nStuhl: ja\nTrommeln: ja
 LOCATION:BSA Odenkirchen Süd\, Mönchengladbach\nhttps://www.google.de/ma
  ps/place/BSA%20Odenkirchen%20S%C3%BCd%2C%20M%C3%B6nchengladbach
 END:VEVENT
@@ -50,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:Kevelaer Kings U16 vs SG Chargers/Devils U16
 DTSTART;TZID="UTC+02:00":20230903T110000
 DTEND;TZID="UTC+02:00":20230903T140000
-DESCRIPTION:Ergebnis: 28 : 26\nEintritt: \nBratwurst: Schlecht\nBier: \nSt
- uhl: ja\nTrommeln: ja
+DESCRIPTION:Ergebnis: 28 : 26\nBier: \nBratwurst: \nEintritt: \nInfo: defa
+ ult\nStuhl: ja\nTrommeln: ja
 LOCATION:BSA Odenkirchen Süd\, Mönchengladbach\nhttps://www.google.de/ma
  ps/place/BSA%20Odenkirchen%20S%C3%BCd%2C%20M%C3%B6nchengladbach
 END:VEVENT
